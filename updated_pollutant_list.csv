@@ -1,0 +1,393 @@
+Surrogate,Group,CAS,Chemical Name,Hap,Acute Air Reference,Acute Air Concentration,Acute General Endpoint,Acute Specific Endpoint,Acute Notes,Acute Surrogate Cas,Acute Surrogate Name,Cancer Based Air Reference,Cancer Unit Risk,Cancer Based Air Concentration,Cancer Notes,Cancer Surrogate Cas,Cancer Surrogate Name,Non-Cancer Chronic Air Reference,Non-Cancer Chronic Air Concentration,Non-Cancer General Endpoint,Non-Cancer Specific Endpoint,Non-Cancer Notes,Non-Cancer Surrogate Cas,Non-Cancer Surrogate Name,Sub-Chronic Air Reference,Sub-Chronic Air Concentration,Sub-Chronic General Endpoint,Sub-Chronic Specific Endpoint,Sub-Chronic Notes,Sub-Chronic Surrogate Cas,Sub-Chronic Surrogate Name
+NA,PAH,202-94-8,"11H-Benz[b,c]aceanthrylene",YES, , ,NA,NA,NA,NA,NA,MDH RAA,3e-05,0.2,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,202-98-2,"4H-Cyclopenta[d,e,f]chrysene",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.00018,0.033,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,ALD,75-07-0,Acetaldehyde,YES,CAL EPA,470,"Eyes , Resp",Respiratory system; eyes,NA,NA,NA,MDH HRV (***),2.2e-06,5,NA,NA,NA,IRIS,9,Resp,olfactory epithelium degeneration,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,60-35-5,Acetamide,YES, , ,NA,NA,NA,NA,NA,CAL EPA,2e-05,0.5,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,67-64-1,Acetone,NO,ATSDR,61800,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,ATSDR,31000,NA,NA,NA,NA,NA,ATSDR,31000,NA,NA,NA,NA,NA
+NA,NA,75-86-5,Acetone Cyanohydrin,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,2,Resp,breathing diffculties,NA,NA,NA,PPRTV,20,Resp,respiratory,NA,NA,NA
+NA,NA,75-05-8,Acetonitrile,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),60,Systemic,mortality,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,53-96-3,"Acetylaminofluorene, 2-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.0013,0.0077,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,107-02-8,Acrolein,YES,MDH HBV,5,Eyes,eye irritant,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HBV,0.4,Resp,upper respiratory system,NA,NA,NA,MDH HRV (***),1,Resp,Upper respiratory,NA,NA,NA
+NA,NA,79-06-1,Acrylamide,YES, , ,NA,NA,NA,NA,NA,IRIS,1e-04,0.1,NA,NA,NA,IRIS,6,Neuro,degenerative nerve changes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,3688-53-7,"Acrylamide, 2-(2-furyl)-3-(5-nitro-2-furyl)-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,6.9e-05,0.14,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,79-10-7,Acrylic acid,YES,CAL EPA,6000,"Resp , Eyes",respiratory system; eye,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,1,Resp,olfactory epithelium degeneration,NA,NA,NA,MDH HRV (***),3,Resp,Upper respiratory,NA,NA,NA
+NA,NA,107-13-1,Acrylonitrile,YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),1e-04,0.1,NA,NA,NA,IRIS,2,Resp,nasal inflammation and degeneration of epithelium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,111-69-3,Adiponitrile,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,6,Blood,Slight anemia without any nonneoplastic lesions,NA,NA,NA,PPRTV,60,Blood,Slight anemia without any nonneoplastic lesions,NA,NA,NA
+SUR,ALD,00-07-9,Aldehydes,Some,MDH,50,Resp,irritant - eye and respiratory system,NA,50-00-0,Formaldehyde, ,NA, ,NA,NA,NA,MDH,9,Resp,Respiratory system;,NA,50-00-0,Formaldehyde,MDH,9,"Eye, Nose","Eye, nose irritation",NA,50-00-0,Formaldehyde
+NA,NA,309-00-2,Aldrin,NO, , ,NA,NA,NA,NA,NA,IRIS,0.0049,0.002,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,VARIOUS,Aliphatic Hydrocarbon Streams (Midrange),NO, , ,NA,NA,NA,NA,NA, ,4.5, ,NA,NA,NA,PPRTV,100,Resp,Goblet cell hypertrophy   ,NA,NA,NA,PPRTV,100,Resp,Goblet cell hypertrophy   ,NA,NA,NA
+NA,NA,107-05-1,Allyl chloride,YES, , ,NA,NA,NA,NA,NA,CAL EPA,6e-06,1.7,NA,NA,NA,IRIS,1,Neuro,neurotoxicity,NA,NA,NA,MDH HRV (***),10,Neuro,nervous system,NA,NA,NA
+NA,NA,7429-90-5,Aluminum,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,5,Neuro,Psychomotor and cognitive impairment   ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,712-68-5,"Amino-5-(5-nitro-2-furyl)-1,3,4-thiadiazol, 2-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.0046,0.0022,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,6109-97-3,"Amino-9-ethylcarbazolehydrochloride, 3-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,2.2e-05,0.45,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,117-79-3,"Aminoanthraquinone, 2-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,9.4e-06,1.1,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,7664-41-7,Ammonia,NO,MDH HRV (***),3200,"Resp , Eyes",irritant - eye and respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),80,Resp,upper and lower respiratory system,NA,NA,NA,PPRTV,100,Resp,Pulmonary,NA,NA,NA
+NA,NA,62-53-3,Aniline,YES, , ,NA,NA,NA,NA,NA,CAL EPA,1.6e-06,6.3,NA,NA,NA,IRIS,1,Systemic,"Methemoglobin increase, spleen toxicity",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,191-26-4,Anthanthrene,NO, , ,NA,NA,NA,NA,NA,MDH RAA,0.00024,0.025,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,Sb,7440-36-0,Antimony,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),0.2,Resp,lower respiratory system,NA,1309-64-4,Antimony trioxide,NA,NA,NA,NA,NA,NA,NA
+SUR,Sb,0-00-1,Antimony Compounds,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),0.2,Resp,lower respiratory system,NA,1309-64-4,Antimony trioxide,NA,NA,NA,NA,NA,NA,NA
+NA,Sb,1309-64-4,Antimony trioxide,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),0.2,Resp,lower respiratory system,NA,NA,NA,PPRTV,0.2,Resp,Increased incidence of alveolar and intraalveolar macrophages.,NA,NA,NA
+NA,NA,140-57-8,Aramite,NO, , ,NA,NA,NA,NA,NA,IRIS,7.1e-06,1.4,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,As,7440-38-2,Arsenic,YES,CAL EPA,0.2,"Neuro , Cardio , Repro",Developmental; cardiovascular system; nervous system,NA,NA,NA,MDH HRV (***),0.005,0.002,NA,NA,NA,CAL EPA,0.015,"Repro , Cardio , Neuro, Skin",Development; cardiovascular system; nervous system; respiratory; skin,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,As,0-00-2,Arsenic Compounds,YES,CAL EPA,0.2,"Repro , Cardio , Neuro",Developmental; cardiovascular system; nervous system,NA,7440-38-2,Arsenic,MDH HRV (***),0.005,0.002,NA,7440-38-2,Arsenic,CAL EPA,0.015,"Repro , Cardio , Neuro, Skin",Development; cardiovascular system; nervous system; respiratory; skin,NA,7440-38-2,Arsenic,NA,NA,NA,NA,NA,NA,NA
+SUR,As,1327-53-3,Arsenic Trioxide,YES,CAL EPA,0.2,"Repro , Cardio , Neuro",Developmental; cardiovascular system; nervous system,NA,7440-38-2,Arsenic,MDH HRV (***),0.005,0.002,NA,7440-38-2,Arsenic,CAL EPA,0.015,"Repro , Cardio , Neuro, Skin",Development; cardiovascular system; nervous system; respiratory; skin,NA,7440-38-2,Arsenic,NA,NA,NA,NA,NA,NA,NA
+SUR,As,7784-42-1,Arsine,YES,MDH HRV (***),200,Blood,hematologic,NA,NA,NA, ,NA, ,NA,7440-38-2,Arsenic,IRIS,0.05,Blood,"hematological effects, increased spleen weight",NA,NA,NA,MDH HRV (***),0.1,Blood,hematologic system,NA,NA,NA
+NA,NA,123-77-3,Azodicarbonamide,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,0.007,Resp,respiratory,NA,NA,NA,PPRTV,0.007,Resp,Decrements in lung function,NA,NA,NA
+NA,NA,10294-40-3,Barium Chromate,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.15,6.7e-05,NA,NA,NA,CAL EPA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,199-54-2,Benz[e]aceanthrylene,YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.00048,0.013,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,202-33-5,Benz[j]aceanthryIene,YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.036,0.00017,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,211-91-6,Benz[l]aceanthryIene,YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.003,0.002,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,71-43-2,Benzene,YES,MDH HRV (***),1000,Repro,Reproductive/developmental,NA,NA,NA,MDH HRV (***),7.69230769230769e-06,1.3,NA,NA,NA,IRIS,30,Blood,decreased lymphocyte count,NA,NA,NA,PPRTV,80,Blood,Decreased lymphocyte count,NA,NA,NA
+NA,NA,92-87-5,Benzidine,YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),0.05,2e-04,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,205-82-3,Benzo(j)fluoranthene,YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.00018,0.033,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,207-08-9,Benzo(k)fluoranthene,YES, , ,NA,NA,NA,NA,NA,MDH RAA,1.8e-05,0.33,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,56-55-3,Benzo[a]anthracene,YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.00012,0.05,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,50-32-8,Benzo[a]pyrene,YES, , ,NA,NA,NA,NA,NA,MDH RAA,6e-04,0.01,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,205-99-2,Benzo[b]fluoranthene,YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.00048,0.013,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,205-12-9,Benzo[c]fluorene,YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.012,5e-04,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,191-24-2,"Benzo[g,h,i]perylene",YES, , ,NA,NA,NA,NA,NA,MDH RAA,5.4e-06,1.1,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,65-85-0,Benzoic Acid,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,PPRTV,2,NA,NA,NA,NA,NA
+NA,NA,100-44-7,Benzyl chloride,YES,CAL EPA,240,"Resp , Eyes",respiratory system; eye,NA,NA,NA,CAL EPA,4.9e-05,0.2,NA,NA,NA,PPRTV,1,Systemic,Lesions   ,NA,NA,NA,PPRTV,4,Systemic,Lesions,NA,NA,NA
+NA,Be,7440-41-7,Beryllium,YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),0.0025,0.004,NA,NA,NA,IRIS,0.02,"Blood, Resp",beryllium sensitization and progression to CBD,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,Be,0-00-3,Beryllium Compounds,YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),0.0025,0.004,NA,7440-41-7,Beryllium,IRIS,0.02,"Blood, Resp",beryllium sensitization and progression to CBD,NA,7440-41-7,Beryllium,NA,NA,NA,NA,NA,NA,NA
+NA,NA,111-44-4,Bis(2-chloroethyl)ether,NO, , ,NA,NA,NA,NA,NA,IRIS,0.00033,0.03,NA,NA,NA, , ,NA,NA,NA,NA,NA,ATSDR,120,NA,NA,NA,NA,NA
+NA,NA,117-81-7,Bis(2-ethylhexyl)phthalate (DEHP),YES, , ,NA,NA,NA,NA,NA,CAL EPA,2.4e-06,4.2,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,542-88-1,Bis(chloromethyl)ether,YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),0.05,2e-04,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,10294-34-5,Boron Trichloride,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,20,Resp,respiratory,NA,NA,NA,PPRTV,20,Resp,respiratory,NA,NA,NA
+NA,NA,108-86-1,Bromobenzene,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,60,"Liver, Kidney, Resp","hepatocellular (liver) cytomegaly, kidney, lung",NA,NA,NA,IRIS,200,"Liver, Kidney, Resp","hepatocellular (liver) cytomegaly, kidney, lung",NA,NA,NA
+NA,NA,74-97-5,Bromochloromethane,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,PPRTV,100,Liver,Increased relative liver weight,NA,NA,NA
+NA,NA,75-27-4,Bromodichloromethane,NO, , ,NA,NA,NA,NA,NA,CAL EPA,3.7e-05,0.27,NA,NA,NA, , ,NA,NA,NA,NA,NA,PPRTV,20,NA,NA,NA,NA,NA
+NA,NA,75-25-2,Bromoform,YES, , ,NA,NA,NA,NA,NA,IRIS,1.1e-06,9.1,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,74-83-9,Bromomethane,YES,MDH HRV (***),2000,Neuro,CNS,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),5,Resp,upper respiratory system,NA,NA,NA,PPRTV,100,Resp,Degeneration of the ofactory epithelium for the nasal cavity,NA,NA,NA
+NA,NA,106-94-5,"Bromopropane, 1-",NO,MDH HBV,50000,Repro,developmental / reproductive,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HBV,20,Resp,respiratory,NA,NA,NA,MDH HBV,4000,Neuro,nervous system,NA,NA,NA
+NA,NA,106-99-0,"Butadiene, 1,3-",YES,CAL EPA,660,Repro,Developmental,NA,NA,NA,MDH HBV,5e-05,0.2,NA,NA,NA,IRIS,2,Repro,Ovarian atrophy,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,78-92-2,"Butyl alcohol, sec-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,30000,Repro,Reduced fetal body weight   ,NA,NA,NA,PPRTV,30000,Repro,Reduced fetal body weight,NA,NA,NA
+NA,NA,111-76-2,Butyl Cellosolve (ethylene glycol monobutyl ether),NO,CAL EPA,4700,"Resp , Eyes",irritant - eye and respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA,HRV(IRIS 2010),1600,Blood,hematologic system,NA,NA,NA,CAL EPA (2018),160,"Resp , Eyes",irritant - eye and respiratory system,NA,NA,NA
+NA,NA,25013-16-5,Butylated hydroxyanisole,NO, , ,NA,NA,NA,NA,NA,CAL EPA,5.7e-08,180,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,3068-88-0,"Butyrolactone, beta-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.00029,0.034,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Cd,7440-43-9,Cadmium,YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),0.00166666666666667,0.006,NA,NA,NA,CAL EPA,0.02,"Kidney, Resp",Kidney; respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,Cd,0-00-4,Cadmium Compounds,YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),0.00166666666666667,0.006,NA,7440-43-9,Cadmium,CAL EPA,0.02,"Kidney, Resp",Kidney; respiratory system,NA,7440-43-9,Cadmium,NA,NA,NA,NA,NA,NA,NA
+NA,NA,13765-19-0,Calcium Chromate,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.15,6.7e-05,NA,NA,NA,CAL EPA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,105-60-2,Caprolactum,NO,CAL EPA,50,Eyes,Eyes,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,2.2,Resp,Upper respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,75-15-0,Carbon disulfide,YES,HRV(CALEPA 1999),6000,Repro,Reproductive/developmental,NA,NA,NA, ,NA, ,NA,NA,NA,MDH ISV (CAL EPA 2002),800,Neuro,nervous system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,630-08-0,Carbon Monoxide,NO,CAL EPA,23000,Cardio,Cardiovascular system,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,56-23-5,Carbon tetrachloride,YES,CAL EPA,1900,"Repro , Neuro , Liver , Digest","developmental,Alimentary (liver), reproductive, nervous system",NA,NA,NA,IRIS,6e-06,1.7,NA,NA,NA,IRIS,100,"Digest, Repro, Neuro",Alimentary system; development; nervous system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,463-58-1,Carbonyl sulfide,NO,CAL EPA,660,Neuro,Central Nervous System,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,100,"Systemic, Neuro",neurotoxicity,NA,NA,NA,PPRTV,1000,Neuro,Neurotoxicity,NA,NA,NA
+NA,Glycol,111-15-9,Cellosolve Acetate (ethylene glycol monoethyl ether acetate),NO,MDH HRV (***),100,Repro,Reproductive/developmental,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,300,Repro,Reproductive,NA,NA,NA,PPRTV,60,Repro,Reproductive,NA,NA,NA
+NA,NA,1306-38-3,Cerium Oxide and Cerium Compounds,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,0.9,Resp,Lungs,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,12789-03-6,Chlordane or (57-74-9),YES, , ,NA,NA,NA,NA,NA,IRIS,1e-04,0.1,NA,NA,NA,IRIS,0.7,Liver,Hepatic effects,NA,NA,NA,MDH HRV (***),7,Liver,hepatic system,NA,NA,NA
+NA,NA,115-28-6,Chlorendic acid,NO, , ,NA,NA,NA,NA,NA,CAL EPA,2.6e-05,0.38,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,108171-26-2,"Chlorinated Paraffins (C12, 60% Chlorine)",NO, , ,NA,NA,NA,NA,NA,CAL EPA,2.5e-05,0.4,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,7782-50-5,Chlorine,YES,MDH HRV (***),290,Resp,irritant - respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,0.2,Resp,Respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,10049-04-4,Chlorine Oxide (CLO2),NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,0.2,Resp,lung effects,NA,NA,NA,MDH HRV (***),0.6,Resp,lower respiratory system,NA,NA,NA
+NA,NA,75-68-3,"Chloro-1,1-difluoroethane, 1- (HCFC-142b)",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,50000,Systemic,none observed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,563-47-3,"Chloro-2-methylpropene, 3-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,4e-05,0.25,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,95-83-0,"Chloro-o-phenylenediamine, 4-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,4.6e-06,2.2,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,95-69-2,"Chloro-o-toluidine, p-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,7.7e-05,0.13,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,532-27-4,"Chloroacetophenone, 2-",YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),0.03,Resp,upper and lower respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,108-90-7,Chlorobenzene,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,1000,"Digest, Kidney, Repro",Alimentary system; kidney; reproductive system,NA,NA,NA,PPRTV,500,Liver,"Increased weight and hepatocellualr hypertrophyIncreased weights, tubule dilation, inflamation of the interstitial cells, and regeneration of the epithelium in males",NA,NA,NA
+NA,NA,98-56-6,"Chlorobenzotrifluoride, 4-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,300,"Liver, Blood","Hepatocellular hypertrophy, increased liver weight, minor changes in serum chemistry (small increase in serum ATL)   ",NA,NA,NA,PPRTV,3000,Liver,"Hepatocellular hypertrophy, increased liver weight, minor changes in serum chemistry (small increase in serum ATL)",NA,NA,NA
+NA,NA,75-45-6,Chlorodifluoromethane (HCFC-22),NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,50000,"Kidney, Repro","increased kidney, adrenal, pituitary weight, reduced materinal weight gain",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,67-66-3,Chloroform,YES,MDH ISV (ATSDR 1997),100,Repro,Reproductive/developmental,NA,NA,NA,IRIS,2.3e-05,0.43,NA,NA,NA,CAL EPA,300,"Digest, Kidney, Repro",Alimentary system; kidney; development,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,107-30-2,Chloromethyl Methyl Ether,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.00069,0.014,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,88-73-3,"Chloronitrobenzene, o-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,PPRTV,0.1,Resp,Nasal Lesions,NA,NA,NA
+NA,NA,100-00-5,"Chloronitrobenzene, p-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,2,Blood,"Methemoglobinemia, structural abnormalities in erythrocytes, and splenic effects   ",NA,NA,NA,PPRTV,6,"Liver, Blood","Methemoglobinemia, structural abnormalities in erythrocytes, and splenic effects",NA,NA,NA
+NA,NA,76-06-2,Chloropicrin,NO,CAL EPA,29,"Resp , Eyes",respiratory system; eye,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,0.4,Resp,Respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,126-99-8,Chloroprene,YES, , ,NA,NA,NA,NA,NA,IRIS,3e-04,0.033,NA,NA,NA,IRIS,20,"Resp, Blood","olfactory atrophy, aveolar hyperplasia and splenic hematopoietic proliferation",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Cr,1333-82-0,Chromic acid mists and dissolved Cr(VI) aerosols,YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),0.0125,8e-04,NA,NA,NA,IRIS,0.008,Resp,nasal septum atrophy,NA,NA,NA,MDH HRV (***),0.02,Resp,Upper and lower respiratory,NA,NA,NA
+SUR,Cr,7440-47-3,Chromium,YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),0.0125,8e-04,NA,NA,NA,IRIS,0.008,Resp,nasal septum atrophy,NA,NA,NA,MDH HRV (***),0.02,Resp,Upper and lower respiratory,NA,NA,NA
+NA,Cr,18540-29-9,Chromium (Hexavalent),YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),0.0125,8e-04,NA,NA,NA,IRIS,0.008,Resp,nasal septum atrophy,NA,NA,NA,MDH HRV (***),0.02,Resp,Upper and lower respiratory,NA,NA,NA
+NA,Cr,18540-29-9-pm,Chromium (Hexavalent) - Particulate,YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),0.0125,8e-04,NA,NA,NA,IRIS,0.1,Resp,lower respiratory system,NA,NA,NA,MDH HRV (***),1,Resp,Lower respiratory,NA,NA,NA
+SUR,Cr,0-00-5,Chromium Compounds,YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),0.0125,8e-04,NA,1333-82-0,Chromic acid mists and dissolved Cr(VI) aerosols,IRIS,0.008,Resp,nasal septum atrophy,NA,18540-29-9,Chromic acid mists and dissolved Cr(VI) aerosols,MDH HRV (***),0.02,Resp,Upper and lower respiratory,NA,NA,NA
+NA,PAH,218-01-9,Chrysene (Benzo(a)phenanthrene),YES, , ,NA,NA,NA,NA,NA,MDH RAA,6e-05,0.1,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,87-29-6,Cinnamyl anthranilate,NO, , ,NA,NA,NA,NA,NA,CAL EPA,1.3e-06,7.7,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,10061-01-5,"cis-1,3-Dichloropropene",NO, , ,NA,NA,NA,NA,NA,IRIS (2000),2.5,4e-06,NA,NA,NA,IRIS (2000),20,NA,NA,NA,NA,NA,ATSDR,36,NA,NA,NA,NA,NA
+SUR,NA,8007-45-2,Coal Tar,NO, , ,NA,NA,NA,NA,NA,MDH HRV (***),5e-04,0.02,NA,0-00-7,Coke Oven Emissions, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,7440-48-4,Cobalt,YES, , ,NA,NA,NA,NA,NA,PPRTV,0.009,0.0011,NA,NA,NA,PPRTV,0.006,Systemic,Irritation Decreased function   ,NA,NA,NA,PPRTV,0.02,Systemic,Irritation Decreased function,NA,NA,NA
+NA,NA,0-00-7,Coke Oven Emissions,YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),5e-04,0.02,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Cu,7440-50-8,Copper,NO,CAL EPA,100,Resp,respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,Cu,00-03-1,Copper Compounds,NO,CAL EPA,100,Resp,respiratory system,NA,7440-50-8,Copper, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,120-71-8,"Cresidine, p-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,4.3e-05,0.23,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,Cresols,108-39-4,"Cresol, m-",YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,600,Neuro,Nervous system,NA,1319-77-3,Cresols/Cresylic acid (isomers and mixture),NA,NA,NA,NA,NA,NA,NA
+SUR,Cresols,95-48-7,"Cresol, o-",YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,600,Neuro,Nervous system,NA,1319-77-3,Cresols/Cresylic acid (isomers and mixture),NA,NA,NA,NA,NA,NA,NA
+SUR,Cresols,106-44-5,"Cresol, p-",YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,600,Neuro,Nervous system,NA,1319-77-3,Cresols/Cresylic acid (isomers and mixture),NA,NA,NA,NA,NA,NA,NA
+NA,Cresol,1319-77-3,Cresols/Cresylic acid (isomers and mixture),YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,600,Neuro,Nervous system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,98-82-8,Cumene,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,400,Kidney,increased kidney and adrenal weights,NA,NA,NA,MDH HRV (***),4000,"Kidney, Repro",renal and endocrine systems,NA,NA,NA
+NA,NA,135-20-6,Cupferron,NO, , ,NA,NA,NA,NA,NA,CAL EPA,6.3e-05,0.16,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,CN,57-12-5,"Cyanide (Cyanide ion, Inorganic cyanides, Isocyanide)",YES, , ,Neuro,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,"Neuro, Repro",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,CN,0-00-8,Cyanide Compounds,YES, , ,Neuro,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,"Neuro, Repro",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,110-82-7,Cyclohexane,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,6000,Repro,developmental (reduced pup weights),NA,NA,NA,PPRTV,18000,Repro,Reduced body weight of pups,NA,NA,NA
+NA,NA,108-94-1,Cyclohexanone,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,700,Systemic,"Systemic: Adverse clinical signs (salivation, conjunctival congestion and irritation, lacrimation, lethargy)",NA,NA,NA,PPRTV,7000,Systemic,"Adverse clinical signs (salivation, conjunctival congestion and irritation, lacrimation, lethargy)",NA,NA,NA
+NA,NA,27208-37-3,"Cyclopenta[c,d]pyrene",NO, , ,NA,NA,NA,NA,NA,MDH RAA,0.00024,0.025,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,50-29-3,DDT,NO, , ,NA,NA,NA,NA,NA,IRIS,9.7e-05,0.1,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,615-05-4,"Diaminoanisole, 2,4-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,6.6e-06,1.5,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,101-80-4,"Diaminodiphenyl ether, 4,4-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,4e-05,0.25,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,103-33-3,"Diazene, Diphenyl",NO, , ,NA,NA,NA,NA,NA,IRIS,3.1e-05,0.32,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,226-36-8,"Dibenz(a,h)acridine",YES, , ,NA,NA,NA,NA,NA,MDH RAA,9.996e-05,0.1,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,224-42-0,"Dibenz(a,j)acridine",YES, , ,NA,NA,NA,NA,NA,MDH RAA,9.996e-05,0.1,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,53-70-3,"Dibenz[a,h]anthracene",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.009996,0.001,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,192-65-4,"Dibenzo(a,e)pyrene",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.0003984,0.025,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,189-64-0,"Dibenzo(a,h)pyrene",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.0008964,0.011,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,191-30-0,"Dibenzo(a,l)pyrene",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.02988,0.00033,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,194-59-2,"Dibenzo(c,g)carbazole, 7H-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.0009996,0.01,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,5385-75-1,"Dibenzo[a,e]fluoranthene",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.0008964,0.011,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,189-55-9,"Dibenzo[a,i]pyrene",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.0005976,0.017,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,96-12-8,"Dibromo-3-chloropropane, 1,2-",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.002,0.005,NA,NA,NA,IRIS,0.2,Repro,testicular effects,NA,NA,NA,MDH HRV (***),2,Repro,male reproductive system,NA,NA,NA
+NA,NA,764-41-0,"Dichloro-2-butene, 1,4-",NO, , ,NA,NA,NA,NA,NA,PPRTV,0.0042,0.0024,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,1476-11-5,"Dichloro-2-butene, cis-1,4-",NO, , ,NA,NA,NA,NA,NA,PPRTV,0.0042,0.0024,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,106-46-7,"Dichlorobenzene(p), 1,4-",YES, , ,NA,NA,NA,NA,NA,CAL EPA,1.1e-05,0.91,NA,NA,NA,MDH,60,Liver,increased liver weight,NA,NA,NA,MDH HRV (***),800,Liver,hepatic system,NA,NA,NA
+SUR,NA,25321-22-6,Dichlorobenzenes,Some, , ,NA,NA,NA,NA,NA,CAL EPA,1.1e-05,0.91,NA,106-46-7,"Dichlorobenzene(p), 1,4-",MDH,60,Liver,increased liver weight,NA,106-46-7,"Dichlorobenzene(p), 1,4-",MDH HRV (***),800,Liver,hepatic system,NA,106-46-7,"Dichlorobenzene(p), 1,4-"
+NA,NA,91-94-1,"Dichlorobenzidene, 3,3-",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.00034,0.029,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,75-71-8,Dichlorodifluoromethane (CFC-12),NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,PPRTV,1000,Systemic,decreased body weight gain,NA,NA,NA
+NA,NA,75-35-4,"Dichloroethylene (1,1-) (Vinylidene chloride)",YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,200,Liver,Liver,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,156-60-5,"Dichloroethylene, trans-1,2-",NO,ATSDR,793,Liver,Liver,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,ATSDR,790,Liver,Liver,NA,NA,NA
+NA,NA,542-75-6,"Dichloropropene, 1,3-",YES, , ,NA,NA,NA,NA,NA,IRIS,4e-06,2.5,NA,NA,NA,MDH HRV (IRIS),20,Resp,upper respiratory system,NA,NA,NA,ATSDR,36,Resp,Respiratory,NA,NA,NA
+NA,NA,78-88-6,"Dichloropropene, 2,3-",NO,ATSDR,9,Resp,Respiratory,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,62-73-7,Dichlorvos,YES,ATSDR,18,Neuro,Neuro,NA,NA,NA,CAL EPA,8.3e-05,0.12,NA,NA,NA,MDH HRV (***),0.5,Neuro,nervous system,NA,NA,NA,ATSDR,2.7,Neuro,Neuro,NA,NA,NA
+NA,NA,77-73-6,Dicyclopentadiene,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,MDH HRV (***),3,Kidney,renal system,NA,NA,NA
+NA,NA,60-57-1,Dieldrin,NO, , ,NA,NA,NA,NA,NA,IRIS,0.0046,0.0022,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,0-02-4,Diesel exhaust particulate,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),5,Resp,lower respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,111-42-2,Diethanolamine,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,3,"Resp, Blood","Respiratory system, hematologic",NA,NA,NA,PPRTV,2,Systemic,Increased incidence of squamous metaplasia (level 1) in males,NA,NA,NA
+NA,Glycol,112-34-5,Diethylene Glycol Monobutyl Ether,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,0.1,Liver,Hepatocellular vacuolization,NA,NA,NA,PPRTV,1,Liver,Hepatocellular vacuolization,NA,NA,NA
+NA,NA,111-90-0,Diethylene Glycol Monoethyl Ether,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,0.3,Skin,"Irritation   
+",NA,NA,NA,PPRTV,3,Systemic,Irritation,NA,NA,NA
+NA,NA,75-37-6,"Difluoroethane, 1,1-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,40000,Systemic,none observed,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,108-20-3,Diisopropyl Ether,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,700,Systemic,Increased weight and toxicity   ,NA,NA,NA,PPRTV,700,Repro,Rudimentary and short 14th ribs in fetal rats,NA,NA,NA
+NA,NA,60-11-7,Dimethyl aminoazobenzene,YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.0013,0.0077,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,68-12-2,Dimethyl formamide,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),30,Liver,hepatic system,NA,NA,NA,PPRTV,70,Liver,Elevated liver enzyme changes,NA,NA,NA
+NA,NA,108-01-0,"Dimethylamino ethanol, 2-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,MDH HRV (***),70,Resp,Upper respiratory,NA,NA,NA
+NA,PAH,57-97-6,"Dimethylbenz[a]anthracene, 7,12-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.0637,0.00016,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,57-14-7,"Dimethylhydrazine, 1,1-",YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,PPRTV,0.008,Repro,Endometrial cysts,NA,NA,NA
+NA,PAH,42397-64-8,"Dinitropyrene, 1,6- (BaP)",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.00996,0.001,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,42397-65-9,"Dinitropyrene, 1,8- (BaP)",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.000996,0.01,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,121-14-2,"Dinitrotoluene, 2,4-",YES, , ,NA,NA,NA,NA,NA,CAL EPA,8.9e-05,0.11,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,123-91-1,"Dioxane, 1,4- (1,4-Diethylene dioxide)",YES,MDH HRV (***),3000,"Eyes , Resp",irritant - eye and nasal,NA,NA,NA,IRIS,5e-06,2,NA,NA,NA,IRIS,30,"Digest, Kidney, Cardio",Alimentary system; kidney; cardiovascular system,NA,NA,NA,ATSDR,720,Resp,Resp,NA,NA,NA
+NA,NA,122-66-7,"Diphenylhydrazine, 1,2-",YES, , ,NA,NA,NA,NA,NA,IRIS,0.00022,0.045,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,106-89-8,"Epichlorohydrin (l-Chloro-2,3-epoxypropane)",YES,CAL EPA,1300,"Resp , Eyes",eye and respiratory system,NA,NA,NA,MDH HRV (***),1.25e-06,8,NA,NA,NA,IRIS,1,Resp,nasal turbinate changes,NA,NA,NA,PPRTV,10,Resp,Changes in the nasal turbinates,NA,NA,NA
+NA,NA,106-88-7,"Epoxybutane, 1,2-",YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),20,Resp,upper respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Glycol,110-80-5,"Ethoxyethanol, 2- (ethylene glycol monoethyl ether)",YES,MDH HRV (***),400,Repro,Reproductive/developmental,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,200,Repro,"decreased testis weight, seminiferous tubule degen",NA,NA,NA,MDH HRV (***),60,"Repro, Blood",male reproductive and hematologic systems,NA,NA,NA
+NA,NA,141-78-6,Ethyl acetate,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,70,Systemic,"Decreased body weights, body-weight gains, food efficiency, startle response (both sexes), and decreased food consumption (males)",NA,NA,NA,PPRTV,700,Systemic,"Decreased body weights, body-weight gains, food efficiency, startle response (both sexes), and decreased food consumption (males)",NA,NA,NA
+NA,NA,140-88-5,Ethyl Acrylate,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,8,Resp,"Dose-dependent histopathological lesions of the olfactory tract, including respiratory metaplasia.",NA,NA,NA,PPRTV,8,Resp,"Dose-dependent histopathological lesions of the olfactory tract, including respiratory metaplasia.",NA,NA,NA
+NA,NA,100-41-4,Ethyl benzene,YES,MDH HRV (***),10000,Repro,Reproductive/developmental,NA,NA,NA,CAL EPA,2.5e-06,4,NA,NA,NA,MDH,300,Neuro,Neuro,NA,NA,NA,PPRTV,9000,Auditory,Histopathological evidence of otoxicity without functional changes in audiometric threshold.,NA,NA,NA
+NA,NA,51-79-6,Ethyl carbamate (Urethane),YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.00029,0.034,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,75-00-3,Ethyl chloride (Chloroethane),YES,MDH HRV (***),1e+05,Repro,Reproductive/developmental,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,10000,Repro,delayed fetal ossification,NA,NA,NA,PPRTV,4000,Repro,Delayed fetal ossification,NA,NA,NA
+NA,NA,97-63-2,Ethyl Methacrylate,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,300,Repro,Decreased in maternal body weight gain   ,NA,NA,NA,PPRTV,3000,Repro,Decrease in maternal body weight gain,NA,NA,NA
+NA,NA,106-93-4,Ethylene dibromide (Dibromoethane),YES, , ,NA,NA,NA,NA,NA,MDH,6e-04,0.017,NA,NA,NA,MDH,0.8,Repro,Repro,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,107-06-2,"Ethylene dichloride (1,2-Dichloroethane)",YES, , ,NA,NA,NA,NA,NA,IRIS,2.6e-05,0.38,NA,NA,NA,MDH,7,Liver,Hepatic system (liver),NA,NA,NA,PPRTV,70,Neuro,Neurobehavioral impairment,NA,NA,NA
+NA,NA,107-21-1,Ethylene glycol,YES,ATSDR,2000,Kidney,Kidney,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,400,"Resp, Kidney",Respiratory system; kidney; development,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,75-21-8,Ethylene oxide,YES, , ,NA,NA,NA,NA,NA,IRIS,0.003,0.0033,NA,NA,NA,CAL EPA,30,Neuro,Nervous system,NA,NA,NA,ATSDR,160,Kidney,Kidney,NA,NA,NA
+NA,NA,96-45-7,Ethylene thiourea,YES, , ,NA,NA,NA,NA,NA,CAL EPA,1.3e-05,0.77,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,75-34-3,"Ethylidene dichloride (1,1-Dichloroethane)",YES, , ,NA,NA,NA,NA,NA,CAL EPA,1.6e-06,6.3,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,206-44-0,Fluoranthene,YES, , ,NA,NA,NA,NA,NA,MDH RAA,7.968e-05,0.13,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,1101,Fluorides (except hydrogen fluoride),NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,13,"Bone/Teeth, Resp","Bone, teeth and respiratory",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,ALD,50-00-0,Formaldehyde,YES,MDH,50,Resp,irritant - eye and respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA,MDH,9,Resp,Respiratory system;,NA,NA,NA,MDH,9,"Eye, Nose","Eye, nose irritation",NA,NA,NA
+NA,NA,64-18-6,Formic Acid,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,PPRTV,0.9,Blood,Neutropenia and increased serum alkaline phosphatase,NA,NA,NA
+NA,ALD,111-30-8,Glutaraldehyde,NO,ATSDR,4.09,Resp,Resp,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,0.08,Resp,Respiratory system,NA,NA,NA,ATSDR,0.12,Resp,Resp,NA,NA,NA
+SUR,Glycol,0-01-2,Glycol ethers,Some,MDH HRV (***),90,Repro,Reproductive/developmental,NA,109-86-4,"Methoxyethanol, 2- (ethylene glycol monomethyl ether EGME)", ,NA, ,NA,NA,NA,IRIS,20,Repro,testicular effects,NA,Glycol,"Methoxyethanol, 2- (ethylene glycol monomethyl ether EGME)",MDH HRV (***),60,"Repro, Blood",male reproductive and hematologic systems,NA,109-86-4,"Methoxyethanol, 2- (ethylene glycol monomethyl ether EGME)"
+NA,NA,76-44-8,Heptachlor,YES, , ,NA,NA,NA,NA,NA,IRIS,0.0013,0.0077,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,1024-57-3,Heptachlor epoxide,NO, , ,NA,NA,NA,NA,NA,IRIS,0.0026,0.0038,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DF,35822-46-9,"Heptachlorodibenzo-p-dioxin, 1,2,3,4,6,7,8-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,4,2.5e-06,NA,NA,NA,MPCA,0.004,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,DF,00-08-5,"Heptachlorodibenzodioxin, All Isomers",YES, , ,NA,NA,NA,NA,NA,MDH RAA,4,2.5e-06,NA,35822-46-9,"Heptachlorodibenzo-p-dioxin, 1,2,3,4,6,7,8-",MPCA,0.004,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,35822-46-9,"Heptachlorodibenzo-p-dioxin, 1,2,3,4,6,7,8-",NA,NA,NA,NA,NA,NA,NA
+NA,DF,67562-39-4,"Heptachlorodibenzofuran, 1,2,3,4,6,7,8-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,4,2.5e-06,NA,NA,NA,MPCA,0.004,"Liver, Repro, Resp, Blood",Hepactic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DF,55673-89-7,"Heptachlorodibenzofuran, 1,2,3,4,7,8,9-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,4,2.5e-06,NA,NA,NA,MPCA,0.004,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,DF,00-08-4,"Heptachlorodibenzofuran, All Isomers",YES, , ,NA,NA,NA,NA,NA,MDH RAA,4,2.5e-06,NA,67562-39-4,"Heptachlorodibenzofuran, 1,2,3,4,6,7,8-",MPCA,0.004,"Liver, Repro, Resp, Blood",Hepactic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,67562-39-4,"Heptachlorodibenzofuran, 1,2,3,4,6,7,8-",NA,NA,NA,NA,NA,NA,NA
+NA,NA,142-82-5,"Heptane, N",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,400,Auditory,Loss of hearing sensitivity,NA,NA,NA,PPRTV,4000,Auditory,Loss of hearing sensitivity,NA,NA,NA
+NA,NA,118-74-1,Hexachlorobenzene,YES, , ,NA,NA,NA,NA,NA,IRIS,0.00046,0.022,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,87-68-3,Hexachlorobutadiene,YES, , ,NA,NA,NA,NA,NA,IRIS,2.2e-05,0.45,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,608-73-1,Hexachlorocyclohexane (technical grade),NO, , ,NA,NA,NA,NA,NA,IRIS,0.00051,0.02,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,319-84-6,"Hexachlorocyclohexane, alpha-",NO, , ,NA,NA,NA,NA,NA,IRIS,0.0018,0.0056,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,319-85-7,"Hexachlorocyclohexane, beta-1,2,3,4,5,6-",NO, , ,NA,NA,NA,NA,NA,IRIS,0.00053,0.019,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,77-47-4,Hexachlorocyclopentadiene,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,0.2,Resp,Suppurative inflammation of the nose,NA,NA,NA,ATSDR,110,Resp,Resp,NA,NA,NA
+NA,DF,39227-28-6,"Hexachlorodibenzo-p-dioxin, 1,2,3,4,7,8-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,40,2.5e-07,NA,NA,NA,MPCA,4e-04,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DF,57653-85-7,"Hexachlorodibenzo-p-dioxin, 1,2,3,6,7,8-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,1.3,7.7e-06,NA,NA,NA,MPCA,4e-04,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DF,19408-74-3,"Hexachlorodibenzo-p-dioxin, 1,2,3,7,8,9-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,1.3,7.7e-06,NA,NA,NA,MPCA,4e-04,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,DF,00-08-3,"Hexachlorodibenzodioxins, All Isomers",YES, , ,NA,NA,NA,NA,NA,MDH RAA,40,2.5e-07,NA,39227-28-6,"Hexachlorodibenzo-p-dioxin, 1,2,3,4,7,8-",MPCA,4e-04,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,39227-28-6,"Hexachlorodibenzo-p-dioxin, 1,2,3,4,7,8-",NA,NA,NA,NA,NA,NA,NA
+NA,DF,70648-26-9,"Hexachlorodibenzofuran, 1,2,3,4,7,8-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,40,2.5e-07,NA,NA,NA,MPCA,4e-04,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DF,57117-44-9,"Hexachlorodibenzofuran, 1,2,3,6,7,8-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,40,2.5e-07,NA,NA,NA,MPCA,4e-04,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DF,72918-21-9,"Hexachlorodibenzofuran, 1,2,3,7,8,9-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,40,2.5e-07,NA,NA,NA,MPCA,4e-04,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DF,60851-34-5,"Hexachlorodibenzofuran, 2,3,4,6,7,8-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,40,2.5e-07,NA,NA,NA,MPCA,4e-04,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,DF,00-08-2,"Hexachlorodibenzofurans, All Isomers",YES, , ,NA,NA,NA,NA,NA,MDH RAA,40,2.5e-07,NA,70648-26-9,"Hexachlorodibenzofuran, 1,2,3,4,7,8-",MPCA,7200,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,70648-26-9,"Hexachlorodibenzofuran, 1,2,3,4,7,8-",NA,NA,NA,NA,NA,NA,NA
+NA,NA,67-72-1,Hexachloroethane,YES,ATSDR,58100,Repro,Reproductive/developmental,NA,NA,NA,CAL EPA,1e-05,1,NA,NA,NA,IRIS,30,Neuro,neurotoxicity,NA,NA,NA,ATSDR,58000,Neuro,Neuro,NA,NA,NA
+NA,DIIS,822-06-0,"Hexamethylene-1,6-diisocyanate",YES,CAL EPA,0.3,Resp,Resp,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),0.01,Resp,upper and lower respiratory system,NA,NA,NA,ATSDR,0.21,Resp,Resp,NA,NA,NA
+NA,NA,110-54-3,Hexane,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH,700,"Neuro, Resp",nervous/upper respiratory sys.,NA,NA,NA,PPRTV,2000,Neuro,Peripheral neuropathology (decreased MCV at 12 weeks),NA,NA,NA
+NA,NA,104-76-7,"Hexanol, 1-,2-ethyl- (2-Ethyl-1-hexanol)",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,0.4,Resp,nasal epithelium,NA,NA,NA,PPRTV,4,Resp,nasal epithelium,NA,NA,NA
+NA,NA,591-78-6,Hexanone-2,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,30,Neuro,Nervous system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,302-01-2,Hydrazine,YES, , ,NA,NA,NA,NA,NA,MDH HRV (***),0.005,0.002,NA,NA,NA,CAL EPA,0.2,"Digest, Repro",Alimentary system; endocrine system,NA,NA,NA,PPRTV,0.09,Blood,Hemosiderosis,NA,NA,NA
+NA,NA,10034-93-2,Hydrazine sulfate,NO, , ,NA,NA,NA,NA,NA,MDH HRV (***),0.005,0.002,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,7647-01-0,Hydrochloric acid (hydrogen chloride),YES,MDH HRV (***),2700,"Resp , Eyes",irritant -Eye and respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),20,Resp,upper respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,CN,74-90-8,Hydrogen cyanide,YES,MDH HRV (***),700,Neuro,CNS,NA,NA,NA, ,NA, ,NA,NA,NA,MDH*,0.8,"Neuro, Repro",nervous/endocrine systems,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,7664-39-3,Hydrogen fluoride (Hydrofluoric acid),YES,MDH HRV (***),240,Resp,irritant - respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,14,"Bone/Teeth, Resp","bone and teeth, respiratory system",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,7783-07-5,Hydrogen selenide,NO,CAL EPA,5,"Resp , Eyes",respiratory system; eye,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,7783-06-4,Hydrogen sulfide,NO,CAL EPA,42,Neuro,nervous system,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,2,Resp,nasal mucosa inflammation,NA,NA,NA,MDH HRV (***),10,Resp,Upper respiratory,NA,NA,NA
+NA,PAH,193-39-5,"Indeno(1,2,3-cd)pyrene",YES, , ,NA,NA,NA,NA,NA,MDH RAA,6.97e-05,0.14,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,78-59-1,Isophorone,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,2000,"Kidney, Digest, Repro",Development; kidney; alimentary system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,67-63-0,Isopropyl alcohol,NO,CAL EPA,3200,"Resp , Eyes",respiratory system; eye,NA,NA,NA, ,NA, ,NA,NA,NA,MDH,200,Repro,Kidney; development,NA,NA,NA,PPRTV,7000,Neuro,Increased mean cumulative motor activity,NA,NA,NA
+NA,Pb,7439-92-1,Lead,YES, , ,NA,NA,NA,NA,NA,CAL EPA,1.2e-05,0.83,NA,NA,NA,NAAQS,0.15,"Repro, Neuro, Cardio",developmental nervous system cardiovascular,NA,NA,NA,NAAQS,0.15,"Repro, Cardio, Neuro",developmental nervous system cardiovascular,NA,NA,NA
+NA,"Cr, Pb",7758-97-6,Lead Chromate,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.15,6.7e-05,NA,NA,NA,CAL EPA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,Pb,0-01-3,Lead Compounds,YES, , ,NA,NA,NA,NA,NA,CAL EPA,1.2e-05,0.83,NA,7439-92-1,Lead,NAAQS,0.15,"Repro, Neuro, Cardio",developmental nervous system cardiovascular,NA,NA,NA,NAAQS,0.15,"Repro, Cardio, Neuro",developmental nervous system cardiovascular,NA,NA,NA
+NA,NA,58-89-9,Lindane (all isomers),YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.00031,0.032,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,Xylenes,00-07-8,m- and p-Xylenes,YES,MDH HRV (***),43000,"Resp , Eyes , Neuro",irritant - eye and respiratory system; CNS,NA,1330-20-7,Xylenes, ,NA, ,NA,NA,NA,IRIS,100,"Neuro, Resp",Nervous system; respiratory system,NA,1330-20-7,Xylenes,NA,NA,NA,NA,NA,NA,NA
+NA,NA,108-31-6,Maleic anhydride,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,0.7,Resp,Respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Mn,7439-96-5,Manganese,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),0.2,Neuro,nervous system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,Mn,0-01-4,Manganese Compounds,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),0.2,Neuro,nervous system,NA,7439-96-5,Manganese,NA,NA,NA,NA,NA,NA,NA
+SUR,Mn,1313-13-9,Manganese Dioxide,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),0.2,Neuro,nervous system,NA,7439-96-5,Manganese,NA,NA,NA,NA,NA,NA,NA
+NA,Hg,7439-97-6,Mercury (elemental),YES,CAL EPA,0.6,"Repro , Neuro","nervous system, development;",NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,0.3,Neuro,neurotoxicity,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,Hg,0-02-3,Mercury Compounds,YES,CAL EPA,0.6,"Repro , Neuro","nervous system, development;",NA,7439-97-6,Mercury (elemental), ,NA, ,NA,NA,NA,IRIS,0.3,Neuro,neurotoxicity,NA,7439-97-6,Mercury (elemental),NA,NA,NA,NA,NA,NA,NA
+NA,NA,126-98-7,Methacrylonitrile,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,30,Liver,Statistically significant higher liver weight,NA,NA,NA,PPRTV,300,Liver,Statistically significant higher liver weight,NA,NA,NA
+NA,NA,67-56-1,Methanol,YES,MDH HRV (***),25000,Neuro,CNS,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,20000,Repro,Development,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Glycol,109-86-4,"Methoxyethanol, 2- (ethylene glycol monomethyl ether EGME)",YES,MDH HRV (***),90,Repro,Reproductive/developmental,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,20,Repro,testicular effects,NA,NA,NA,MDH HRV (***),60,"Repro, Blood",male reproductive and hematologic systems,NA,NA,NA
+NA,NA,96-33-3,Methyl acrylate,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,20,Resp,respiratory,NA,NA,NA,PPRTV,20,Resp,respiratory,NA,NA,NA
+NA,Glycol,110-49-6,Methyl Cellosolve Acetate,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,90,Repro,Reproductive,NA,NA,NA,PPRTV,60,Repro,Reproductive,NA,NA,NA
+NA,NA,74-87-3,Methyl chloride (Chloromethane),YES,ATSDR,1030,Neuro,Neuro,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,90,Neuro,Cerebellar lesions,NA,NA,NA,PPRTV,3000,Systemic,Lesions,NA,NA,NA
+NA,NA,71-55-6,"Methyl chloroform (1,1,1-Trichloroethane)",YES,MDH*,68000,Neuro,CNS,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,5000,Liver,liver histopathologic changes,NA,NA,NA,IRIS,5000,Liver,liver histopathologic changes,NA,NA,NA
+NA,NA,78-93-3,Methyl ethyl ketone (2-Butanone),NO,MDH HRV (***),10000,"Resp , Eyes",irritant - eye and respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,5000,Repro,developmental (skeletal variations),NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,60-34-4,Methyl Hydrazine,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,108-10-1,Methyl isobutyl ketone (Hexone),YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,3000,Repro,"reduced fetal body weight, skeletal variations, and increased fetal death in mice, and skeletal variations in rats",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,ISO,624-83-9,Methyl isocyanate,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,1,"Repro, Resp",Respiratory system; reproductive system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,80-62-6,Methyl methacrylate,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),700,Resp,upper and lower respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,1634-04-4,Methyl tert butyl ether,YES,ATSDR,7210,Neuro,Neuro,NA,NA,NA,CAL EPA,2.6e-07,38,NA,NA,NA,IRIS,3000,"Liver, Kidney",liver and kidney effects,NA,NA,NA,ATSDR,2500,Neuro,Neuro,NA,NA,NA
+NA,PAH,56-49-5,"Methylcholanthrene, 3-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.0055776,0.0018,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,3697-24-3,"Methylchrysene, 5-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.000996,0.01,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,101-14-4,"Methylene bis(2-chloroaniline), 4,4-",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.00043,0.023,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,74-95-3,Methylene Bromide,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,75-09-2,Methylene chloride (Dichloromethane),YES,MDH HRV (***),10000,Neuro,CNS,NA,NA,NA,MDH,1e-08,1000,NA,NA,NA,IRIS,600,Liver,hepatic vacuolation,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DIIS,101-68-8,Methylene diphenyl diisocyanate (MDI),YES,CAL EPA,12,Resp,Respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (***),0.6,Resp,upper and lower respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,101-77-9,"Methylenedianiline, 4,4-",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.00046,0.022,NA,NA,NA,CAL EPA,20,"Eyes, Digest",Eyes; alimentary system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,90-94-8,Michler's ketone,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.00025,0.04,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,10595-95-6,N- Nitrosomethylethylamine,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.00625,0.0016,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,924-16-3,N-Nitrosodi-n-butylamine,NO, , ,NA,NA,NA,NA,NA,IRIS,0.0016,0.0062,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,621-64-7,N-Nitrosodi-n-propylamine,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.002,0.005,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,55-18-5,N-Nitrosodiethylamine,NO, , ,NA,NA,NA,NA,NA,IRIS,0.043,0.00023,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,62-75-9,N-Nitrosodimethylamine,YES, , ,NA,NA,NA,NA,NA,IRIS,0.014,0.00071,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,86-30-6,N-Nitrosodiphenylamine,NO, , ,NA,NA,NA,NA,NA,CAL EPA,2.6e-06,3.8,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,59-89-2,N-Nitrosomorpholine,YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.0019,0.0053,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,100-75-4,N-Nitrosopiperidine,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.0027,0.0037,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,111-84-2,N-Nonane,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,20,Systemic,"Salivation, lacrimation, and marginally depressed body weight   ",NA,NA,NA,PPRTV,200,Systemic,"Salivation, lacrimation, and marginally depressed body weight",NA,NA,NA
+NA,NA,64724-95-6,"Naphtha, High Flash Aromatic (HFAN)",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,100,Repro,Decreased maternal body weight versus controls.   ,NA,NA,NA,PPRTV,1000,Repro,Decreased maternal body weight versus controls.,NA,NA,NA
+NA,PAH,91-20-3,Naphthalene,YES,MDH HBV,200,Resp,respiratory,NA,NA,NA,MDH RAA,NA, ,NA,NA,NA,MDH HBV,9,Resp,"Nasal Effects, respiratory impacts",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,193-09-9,"Naphtho[2,3-e]pyrene",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.000303030303030303,0.033,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,Ni,7440-02-0,Nickel,YES,MDH HRV (CAL EPA),0.2,Resp,irritant - respiratory system,NA,0-01-5,Nickel Compounds,MDH HRV (IRIS),5e-04,0.02,NA,12035-72-2,Nickel sulfide (NI3S2),CAL EPA,0.014,"Resp, Blood",Respiratory system; hematopoietic system,NA,12035-72-2,Nickel sulfide (NI3S2),NA,NA,NA,NA,NA,NA,NA
+SUR,Ni,0-01-5,Nickel Compounds,YES,MDH HRV (CAL EPA),0.2,Resp,irritant - respiratory system,NA,NA,NA,MDH HRV (IRIS),5e-04,0.02,NA,12035-72-2,Nickel sulfide (NI3S2),CAL EPA,0.014,"Resp, Blood",Respiratory system; hematopoietic system,NA,12035-72-2,Nickel sulfide (NI3S2),NA,NA,NA,NA,NA,NA,NA
+SUR,Ni,1313-99-1,Nickel oxide,YES,MDH HRV (CAL EPA),0.2,Resp,irritant - respiratory system,NA,0-01-5,Nickel Compounds,CAL EPA,0.00026,0.038,NA,NA,NA,CAL EPA,0.02,"Resp, Blood",Respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,Ni,0-02-5,Nickel refinery dust from the pyrometallurgical process,YES,MDH HRV (CAL EPA),0.2,Resp,irritant - respiratory system,NA,0-01-5,Nickel Compounds,IRIS,0.00024,0.04,NA,NA,NA,CAL EPA,0.014,"Resp, Blood",Respiratory system; hematopoietic system,NA,12035-72-2,Nickel sulfide (NI3S2),NA,NA,NA,NA,NA,NA,NA
+SUR,Ni,12035-72-2,Nickel sulfide (NI3S2),YES,MDH HRV (CAL EPA),0.2,Resp,irritant - respiratory system,NA,0-01-5,Nickel Compounds,MDH HRV (IRIS),5e-04,0.02,NA,NA,NA,CAL EPA,0.014,"Resp, Blood",Respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,7697-37-2,Nitric acid,NO,MDH HRV (CAL EPA),86,Resp,irritant - respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,139-13-9,Nitrilotriacetic acid,NO, , ,NA,NA,NA,NA,NA,CAL EPA,6.7,1.5e-06,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,18662-53-8,"Nitrilotriacetic acid, trisodium salt monohydrate",NO, , ,NA,NA,NA,NA,NA,CAL EPA,3.4,2.9e-06,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,602-87-9,"Nitroacenaphthene, 5-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,1.992e-05,0.5,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,88-74-4,"Nitroaniline, 2-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,PPRTV,0.4,Eyes,Nasal and Eye irritation,NA,NA,NA
+NA,NA,100-01-6,"Nitroaniline, 4-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,6,Blood,Methemoglobinemia,NA,NA,NA,PPRTV,20,Blood,Methemoglobinemia,NA,NA,NA
+NA,NA,98-95-3,Nitrobenzene,YES, , ,NA,NA,NA,NA,NA,IRIS,4e-05,0.25,NA,NA,NA,IRIS,9,Resp,Bronchiolization of the alveoli and olfactory degeneration,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,7496-02-8,"Nitrochrysene, 6-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.00996,0.001,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,607-57-8,"Nitrofluorene, 2-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,9.96e-06,1,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,10102-44-0,Nitrogen dioxide (NO2),NO,MDH HBV,470,Resp,respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,75-52-5,Nitromethane,NO, , ,NA,NA,NA,NA,NA,PPRTV,8.8e-06,1.1,NA,NA,NA,PPRTV,5,Resp,Hyaline degeneration in th erespiratory epithelium,NA,NA,NA,PPRTV,4,Resp,Hyaline droplets in the respiratory epithelium,NA,NA,NA
+NA,NA,79-46-9,"Nitropropane, 2-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (IRIS),20,Liver,hepatic system,NA,NA,NA,PPRTV,70,Liver,"Focal hepatocyte hypertrophy, hepatocyte hyperplasia, and hepatocyte basophilic foci",NA,NA,NA
+NA,PAH,5522-43-0,"Nitropyrene, 1-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,9.96e-05,0.1,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,PAH,57835-92-4,"Nitropyrene, 4-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,9.96e-05,0.1,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,156-10-5,"Nitrosodiphenylamine, p-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,6.3e-06,1.6,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DF,3268-87-9,"Octachlorodibenzo-p-dioxin, 1,2,3,4,6,7,8,9-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.12,8.3e-05,NA,NA,NA,MPCA,0.13,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DF,39001-02-0,"Octachlorodibenzofuran, 1,2,3,4,6,7,8,9-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.12,8.3e-05,NA,NA,NA,MPCA,0.13,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,10028-15-6,Ozone,NO,CAL EPA,180,"Resp , Eyes","eye, respiratory",NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,74472-37-0,"PCB 114 (2,3,4,4,5 Pentachlorobiphenyl)",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.019,0.00053,NA,NA,NA,CAL EPA,1.3,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,31508-00-6,"PCB 118 (2,3,4,4,5 Pentachlorobiphenyl)",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.0038,0.0026,NA,NA,NA,CAL EPA,1.3,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,65510-44-3,"PCB 123 (2,3,4,4,5 Pentachlorobiphenyl)",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.0038,0.0026,NA,NA,NA,CAL EPA,1.3,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,57465-28-8,"PCB 126 (3,3,4,4,5 Pentachlorobiphenyl)",YES, , ,NA,NA,NA,NA,NA,CAL EPA,3.8,2.6e-06,NA,NA,NA,CAL EPA,4e-04,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,38380-0804,"PCB 156 (2,3,3,4,4,5 Hexachlorobiphenyl)",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.019,0.00053,NA,NA,NA,CAL EPA,1.3,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,69782-90-7,"PCB 157 (2,3,3,4,4,5 Hexachlorobiphenyl)",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.019,0.00053,NA,NA,NA,CAL EPA,1.3,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,52663-72-6,"PCB 167 (2,3,4,4,5,5 Hexachlorobiphenyl)",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.00038,0.026,NA,NA,NA,CAL EPA,1.3,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,32774-16-6,"PCB 169 (3,3,4,4,5,5 Hexachlorobiphenyl)",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.38,2.6e-05,NA,NA,NA,CAL EPA,0.0013,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,39635-31-9,"PCB 189 (2,3,3,4,4,5,5 Heptachlorobiphenyl)",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.0038,0.0026,NA,NA,NA,CAL EPA,1.3,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,32598-13-3,"PCB 77 (3,3,4,4-Tetrachlorobiphenyl)",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.0038,0.0026,NA,NA,NA,CAL EPA,0.4,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,70362-50-4,"PCB 81 (3,4,4,5 Tetrachlorobiphenyl)",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.0038,0.0026,NA,NA,NA,CAL EPA,0.13,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,32598-14-4,"PCB105 (2,3,3,4,4 Pentachlorobiphenyl)",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.0038,0.0026,NA,NA,NA,CAL EPA,1.3,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DF,40321-76-4,"Pentachlorodibenzo-p-dioxin, 1,2,3,7,8-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,400,2.5e-08,NA,NA,NA,MPCA,4e-05,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,DF,00-08-1,"Pentachlorodibenzodioxins, All Isomers",YES, , ,NA,NA,NA,NA,NA,MDH RAA,400,2.5e-08,NA,40321-76-4,"Pentachlorodibenzo-p-dioxin, 1,2,3,7,8-",MPCA,4e-05,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,40321-76-4,"Pentachlorodibenzo-p-dioxin, 1,2,3,7,8-",NA,NA,NA,NA,NA,NA,NA
+NA,DF,57117-41-6,"Pentachlorodibenzofuran, 1,2,3,7,8-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,12,8.3e-07,NA,NA,NA,MPCA,0.0013,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DF,57117-31-4,"Pentachlorodibenzofuran, 2,3,4,7,8-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,120,8.3e-08,NA,NA,NA,MPCA,0.00013,"Liver, Repro, Resp, Blood",Hepactic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,DF,00-09-0,"Pentachlorodibenzofurans, All Isomers",YES, , ,NA,NA,NA,NA,NA,MDH RAA,120,8.3e-08,NA,57117-31-4,"Pentachlorodibenzofuran, 2,3,4,7,8-",MPCA,0.00013,"Liver, Repro, Resp, Blood",Hepactic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,57117-31-4,"Pentachlorodibenzofuran, 2,3,4,7,8-",NA,NA,NA,NA,NA,NA,NA
+NA,NA,87-86-5,Pentachlorophenol,YES, , ,NA,NA,NA,NA,NA,CAL EPA,5.1e-06,2,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,109-66-0,"Pentane, n-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,1000,Systemic,NA,NA,NA,NA,PPRTV,10000,Systemic,NA,NA,NA,NA
+NA,NA,VARIOUS,"Petroleum Hydrocarbons, Aliphatic Low (C5 - C8)",NO, , ,NA,NA,NA,NA,NA, ,1.9e-07, ,NA,NA,NA,PPRTV,600,"Neuro, Resp",Nasal epithelium hperplasia; Peripheral neuropathy,NA,NA,NA,PPRTV,2000,Neuro,Decreased motor nerve conduction velocity,NA,NA,NA
+NA,NA,00-07-7,"Petroleum Hydrocarbons, Aliphatic Medium (C9 - C18)",NO, , ,NA,NA,NA,NA,NA, ,4.5e-06, ,NA,NA,NA,PPRTV,100,"Resp, Kidney",Nasal goblet cell hypertrophy and adrenal hyperplasia,NA,NA,NA,PPRTV,100,"Resp, Kidney",Nasal goblet cell hypertrophy,NA,NA,NA
+NA,NA,VARIOUS,"Petroleum Hydrocarbons, Aromatic Low (C6 - C8; EC6-EC8)",NO, , ,NA,NA,NA,NA,NA,PPRTV,7.8e-06,1.3,NA,NA,NA,PPRTV,30,Blood,Decreased lymphocytes,NA,NA,NA,PPRTV,80,Blood,Decreased lymphocytes,NA,NA,NA
+NA,NA,VARIOUS,"Petroleum Hydrocarbons, Aromatic Medium (C9 - C16; EC9-EC21)",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,3,Resp,Nasal lesions,NA,NA,NA,PPRTV,1000,Repro,Decreased maternal body weight,NA,NA,NA
+NA,PAH,85-01-8,Phenanthrene,YES, , ,NA,NA,NA,NA,NA,MDH RAA,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,108-95-2,Phenol,YES,MDH HRV (CAL EPA),5800,"Resp , Eyes",irritant - eye and respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,200,"Digest, Cardio, Kidney",Alimentary system; cardiovascular system; kidney;,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,75-44-5,Phosgene,YES,MDH HRV (CAL EPA),4,Resp,irritant - respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,0.3,Resp,Collagen staining indictive of fibrosis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,7803-51-2,Phosphine,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,0.3,Systemic,decreased body weight,NA,NA,NA,MDH HRV (IRIS),3,Systemic,decreased body weight,NA,NA,NA
+NA,NA,7664-38-2,Phosphoric acid,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,10,Resp,bronchioloar fibrosis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,85-44-9,Phthalic anhydride,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,20,Resp,Respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,59536-65-1,Polybrominated Biphenyls,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.0012,0.0086,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,NA,1336-36-3,Polychlorinated biphenyls (Aroclors unspeciated),YES, , ,NA,NA,NA,NA,NA,CAL EPA,3.8,2.6e-06,NA,NA,NA,CAL EPA,4e-04,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,57465-28-8,PCB 126,NA,NA,NA,NA,NA,NA,NA
+SUR,DF,00-08-0,"Polychlorinated Dibenzo-P-Dioxins And Furans, Total",YES, , ,NA,NA,NA,NA,NA,MDH RAA,400,2.5e-08,NA,1746-01-6,"Tetrachlorodibenzo-p-dioxin, 2,3,7,8-",CAL EPA,4e-05,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,1746-01-6,"Tetrachlorodibenzo-p-dioxin, 2,3,7,8-",NA,NA,NA,NA,NA,NA,NA
+SUR,DF,00-05-0,"Polychlorinated Dibenzodioxins, Total",YES, , ,NA,NA,NA,NA,NA,MDH RAA,400,2.5e-08,NA,1746-01-6,"Tetrachlorodibenzo-p-dioxin, 2,3,7,8-",CAL EPA,4e-05,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,1746-01-6,"Tetrachlorodibenzo-p-dioxin, 2,3,7,8-",NA,NA,NA,NA,NA,NA,NA
+SUR,DF,00-05-1,"Polychlorinated Dibenzofurans, Total",YES, , ,NA,NA,NA,NA,NA,MDH RAA,120,8.3e-08,NA,57117-31-4,"Pentachlorodibenzofuran, 2,3,4,7,8-",MPCA,0.00013,"Liver, Repro, Resp, Blood",Hepactic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,57117-31-4,"Pentachlorodibenzofuran, 2,3,4,7,8-",NA,NA,NA,NA,NA,NA,NA
+SUR,PAH,130498-29-2,Polycyclic Aromatic Hydrocarbons (PAH),YES, , ,NA,NA,NA,NA,NA,MDH RAA,0.00178571428571429,0.0056,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,PAH,00-01-7,Polycyclic Organic Matter (POM),YES, , ,NA,NA,NA,NA,NA,MDH RAA,8.92857142857143e-05,0.11,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DIIS,9016-87-9,Polymeric diphenylmethane diisocyanate,NO,CAL EPA,12,Resp,respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (IRIS),0.6,Resp,upper and lower respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,7758-01-2,Potassium bromate,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.00014,0.071,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,1120-71-4,"Propane sultone, 1,3-",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.00069,0.014,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,57-57-8,"Propiolactone, beta-",NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.0025,0.004,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,123-38-6,Propionaldehyde,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,8,Resp,Atrophy of olfactory epithelium,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,115-07-1,Propylene,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,3000,Resp,Respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,78-87-5,"Propylene dichloride (1,2-Dichloropropane)",YES,ATSDR,231,Resp,respiratory system,NA,NA,NA,PPRTV,3.7e-06,2.7,NA,NA,NA,IRIS,4,Resp,nasal mucosa hyperplasia,NA,NA,NA,MDH HRV (IRIS),10,Resp,Upper respiratory,NA,NA,NA
+NA,NA,107-98-2,Propylene Glycol Monomethyl Ether,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,2000,Neuro,mild reversible sedation,NA,NA,NA,MDH HRV (CAL EPA),20000,Neuro,nervous system,NA,NA,NA
+NA,NA,75-56-9,Propylene oxide,YES,CAL EPA,3100,"Resp , Repro , Eyes",respiratory system; eye; reproductive/developmental,NA,NA,NA,MDH HRV (IRIS),3.33333333333333e-06,3,NA,NA,NA,IRIS,30,Resp,nasal epithelial changes,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,930-55-2,"Pyrrolidine, 1-Nitroso-",NO, , ,NA,NA,NA,NA,NA,IRIS,0.00061,0.016,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,Se,7782-49-2,Selenium,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,20,"Digest, Cardio, Neuro",Alimentary system; cardiovascular system; nervous,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,Se,0-01-9,Selenium Compounds,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,20,"Digest, Cardio, Neuro",Alimentary system; cardiovascular system; nervous,NA,7782-49-2,Selenium,NA,NA,NA,NA,NA,NA,NA
+NA,NA,7631-86-9,"Silica (crystalline, respirable, PM4)",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HBV,3,Resp,respiratory,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,10588-01-09,Sodium Dichromate,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.15,6.7e-05,NA,NA,NA,CAL EPA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,1310-73-2,Sodium hydroxide,NO,MDH HRV (CAL EPA),8,"Resp , Eyes , Skin","irritant - eye, skin, and respiratory system",NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,Cr,7789-06-2,Strontium chromate,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.15,6.7e-05,NA,NA,NA,CAL EPA,0.2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,100-42-5,Styrene,YES,MDH HRV (CAL EPA),21000,"Resp , Eyes",irritant - eye and respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (CAL EPA),900,Neuro,nervous system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,96-09-3,Styrene oxide,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.22,4.6e-05,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,14808-79-8,Sulfates,NO,CAL EPA,120,Resp,respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,126-33-0,Sulfolane,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,PPRTV,20,"Resp, Neuro",respiratory and neurological,NA,NA,NA
+NA,NA,7446-09-5,Sulfur dioxide,NO,CAL EPA,660,Resp,respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,7664-93-9,Sulfuric acid (aerosol forms only),NO,CAL EPA,120,Resp,respritory system,NA,NA,NA, ,NA, ,NA,NA,NA,CAL EPA,1,Resp,Respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,8014-95-7,Sulfuric Acid mixture w. sulfur trioxide (oleum),NO,CAL EPA,120,Resp,respiratory system,NA,NA,NA, ,NA, ,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,DF,00-09-1,"TCDD Eqivalents, 2,3,7,8-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,400,2.5e-08,NA,1746-01-6,"Tetrachlorodibenzo-p-dioxin, 2,3,7,8-",CAL EPA,4e-05,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,1746-01-6,"Tetrachlorodibenzo-p-dioxin, 2,3,7,8-",NA,NA,NA,NA,NA,NA,NA
+NA,NA,540-88-5,Tert-Butyl Acetate,NO, , ,NA,NA,NA,NA,NA,CAL EPA,7.7,1.3e-06,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,DF,1746-01-6,"Tetrachlorodibenzo-p-dioxin, 2,3,7,8-",YES, , ,NA,NA,NA,NA,`,MDH RAA,400,2.5e-08,NA,NA,NA,CAL EPA,4e-05,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,DF,00-08-8,"Tetrachlorodibenzodioxins, All Isomers",YES, , ,NA,NA,NA,NA,NA,MDH RAA,400,2.5e-08,NA,1746-01-6,"Tetrachlorodibenzo-p-dioxin, 2,3,7,8-",CAL EPA,4e-05,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,1746-01-6,"Tetrachlorodibenzo-p-dioxin, 2,3,7,8-",NA,NA,NA,NA,NA,NA,NA
+NA,DF,51207-31-9,"Tetrachlorodibenzofuran, 2,3,7,8-",YES, , ,NA,NA,NA,NA,NA,MDH RAA,40,2.5e-07,NA,NA,NA,MPCA,4e-04,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,DF,00-08-6,"Tetrachlorodibenzofurans, All Isomers",YES, , ,NA,NA,NA,NA,NA,MDH RAA,40,2.5e-07,NA,51207-31-9,"Tetrachlorodibenzofuran, 2,3,7,8-",MPCA,4e-04,"Liver, Repro, Resp, Blood",Hepatic system (liver); reproductive system; development; endocrine system; respiratory system; hematopoietic system,NA,51207-31-9,"Tetrachlorodibenzofuran, 2,3,7,8-",NA,NA,NA,NA,NA,NA,NA
+NA,NA,630-20-6,"Tetrachloroethane, 1,1,1,2-",NO, , ,NA,NA,NA,NA,NA,IRIS,7.4e-06,1.4,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,79-34-5,"Tetrachloroethane, 1,1,2,2-",YES, , ,NA,NA,NA,NA,NA,IRIS,5.8e-05,0.17,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,127-18-4,Tetrachloroethylene (Perchloroethylene),YES,MDH HRV (CAL EPA),20000,"Resp , Neuro , Eyes","irritant - eye, and respiratory system; CNS",NA,NA,NA,MDH RAA,5e-06,2,NA,NA,NA,MDH RAA,15,Neuro,nervous system,NA,NA,NA,ATSDR,41,Neuro,CNS,NA,NA,NA
+NA,NA,811-97-2,"Tetrafluoroethane, 1,1,1,2-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,80000,Repro,leydig cell hyperplasia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,109-99-9,Tetrahydrofuran,NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,2000,"Liver, Neuro","liver, central nervous",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,62-55-5,Thioacetamide,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.0017,0.0059,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,62-56-6,Thiourea,NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.48,2.1e-05,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,108-88-3,Toluene,YES,MDH HRV (CAL EPA),37000,"Resp , Neuro , Eyes",irritant- eye and respiratory system; CNS,NA,NA,NA, ,NA, ,NA,NA,NA,MDH ISV (***),4000,"Neuro, Resp",nervous / upper respiratory system,NA,NA,NA,PPRTV,5000,Systemic,NA,NA,NA,NA
+NA,NA,95-80-7,"Toluene diamine, 2,4-",YES, , ,NA,NA,NA,NA,NA,CAL EPA,0.0011,0.0091,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DIIS,584-84-9,"Toluene-2,4-diisocyanate",YES,CAL EPA,2,Resp,Respiratory system,NA,NA,NA,CAL EPA,1.1e-05,0.91,NA,NA,NA,CAL EPA,0.008,Resp,respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,DIIS,91-08-7,"Toluene-2,6-diisocyanate",NO,CAL EPA,2,Resp,Respiratory system,NA,NA,NA,CAL EPA,1.1e-05,0.91,NA,NA,NA,CAL EPA,0.008,Resp,respiratory system,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SUR,DIIS,26471-62-5,Toluenediisocyanate (mixed isomers),Some, , ,NA,NA,NA,NA,NA,CAL EPA,1.1e-05,0.91,NA,NA,NA,CAL EPA,0.008,Resp,respiratory system,NA,91-08-7,"Toluene-2,6-diisocyanate",NA,NA,NA,NA,NA,NA,NA
+NA,NA,95-53-4,"Toluidine, o- (Methylaniline, 2-)",NO, , ,NA,NA,NA,NA,NA,CAL EPA,0.2,5.1e-05,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,8001-35-2,Toxaphene (chlorinated camphene),YES, , ,NA,NA,NA,NA,NA,IRIS,0.00032,0.031,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,10061-02-6,"trans-1,3-Dichloropropene",NO, , ,NA,NA,NA,NA,NA,IRIS (2000),2.5,4e-06,NA,NA,NA,IRIS (2000),20,NA,NA,NA,NA,NA,ATSDR,36,NA,NA,NA,NA,NA
+NA,NA,120-82-1,"Trichlorobenzene, 1,2,4-",YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,2,Repro,Significant changes in coproporphyrin and uroporphyrin excretion,NA,NA,NA,PPRTV,20,Blood,Significant changes in coproporphyrin and uroporphyrin excretion,NA,NA,NA
+NA,NA,79-00-5,"Trichloroethane, 1,1,2-",YES, , ,NA,NA,NA,NA,NA,IRIS,1.6e-05,0.63,NA,NA,NA,MDH ISV (***),0.2,Resp,Lesions in the olfactory epithelium,NA,NA,NA,PPRTV,2,Resp,Lesions in the olfactory epithelium,NA,NA,NA
+NA,NA,79-01-6,Trichloroethylene (TCE),YES,HBV - Short-term (24hr),2,Repro,Reproductive/developmental,NA,NA,NA,MDH HBV,5e-06,2,NA,NA,NA,MDH HBV,2,"Repro, Systemic",decreased thymus wt; increased fetal cardiac malformations,NA,NA,NA,MDH HBV,2,Repro,Reproductive/developmental,NA,NA,NA
+NA,NA,75-69-4,Trichlorofluoromethane (CFC-11),NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH ISV (***),1000,Neuro,Small decrements in cognitive performance,NA,NA,NA,PPRTV,1000,Neuro,Small decrements in cognitive performance,NA,NA,NA
+NA,NA,88-06-2,"Trichlorophenol, 2,4,6-",YES, , ,NA,NA,NA,NA,NA,IRIS,3.1e-06,3.2,NA,NA,NA, , ,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,96-18-4,"Trichloropropane, 1,2,3-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,0.3,Resp,peribronchial lymphoid hyperplasia,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,96-19-5,"Trichloropropene, 1,2,3-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,0.3,"Eyes, Resp, Skin",Irritation   ,NA,NA,NA,PPRTV,3,Resp,Irritation,NA,NA,NA
+NA,NA,76-13-1,"Trichlorotrifluoroethane, 1,1,2- (CFC-13)",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,5000,Systemic,NA,NA,NA,NA,PPRTV,50000,Systemic,NA,NA,NA,NA
+NA,NA,121-44-8,Triethylamine,YES,MDH HRV (IRIS),2800,Eyes,irritant- eye; transient corneal edema,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,7,Resp,no observed adverse effects (28-week); nasal passa,NA,NA,NA,MDH HRV (***),70,Resp,Upper respiratory,NA,NA,NA
+NA,NA,420-46-2,"Trifluoroethane, 1,1,1-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,PPRTV,20000,Systemic,NA,NA,NA,NA,PPRTV,2e+05,Systemic,NA,NA,NA,NA
+NA,NA,526-73-8,"Trimethylbenzene, 1,2,3-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,60,Neuro,Decreased sensitivity to pain   ,NA,NA,NA,IRIS,200,Neuro,Decreased sensitivity to pain,NA,NA,NA
+NA,NA,95-63-6,"Trimethylbenzene, 1,2,4-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,60,Neuro,Decreased sensitivity to pain   ,NA,NA,NA,IRIS,200,Neuro,Decreased sensitivity to pain,NA,NA,NA
+NA,NA,108-67-8,"Trimethylbenzene, 1,3,5-",NO, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,60,Neuro,Decreased sensitivity to pain   ,NA,NA,NA,IRIS,200,Neuro,Decreased sensitivity to pain,NA,NA,NA
+NA,V,1314-62-1,"Vanadium Pentoxide, (V2O5)",NO,MDH HRV (CAL EPA),30,Resp,Respiratory system,NA,NA,NA,PPRTV,0.0083,0.0012,NA,NA,NA,PPRTV,0.007,Resp,Chronic inflamationEpithelial hyperplasia   ,NA,NA,NA,PPRTV,0.1,Resp,"Alveolar epithelial hyperplasia, histiocytic infiltrate and inflammation",NA,NA,NA
+NA,NA,108-05-4,Vinyl acetate,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,MDH HRV (IRIS),200,Resp,upper respiratory system,NA,NA,NA,ATSDR,35,Resp,respiratory system,NA,NA,NA
+NA,NA,593-60-2,Vinyl bromide,YES, , ,NA,NA,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,3,Liver,"liver hypertrophy, basophilic and eosinophilic foc",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+NA,NA,75-01-4,Vinyl chloride,YES,CAL EPA,180000,"Resp , Neuro , Eyes",irritant - eye and respiratory system; CNS,NA,NA,NA,MDH HRV (***),1e-05,1,NA,NA,NA,IRIS,100,Liver,Liver cell polymorphism,NA,NA,NA,ATSDR,77,Liver,Hepatic effects,NA,NA,NA
+NA,Xylenes,1330-20-7,Xylenes,YES,MDH HRV (CAL EPA),22000,"Resp , Neuro , Eyes",irritant - eye and respiratory system; CNS,NA,NA,NA, ,NA, ,NA,NA,NA,IRIS,100,"Neuro, Resp",Nervous system; respiratory system,NA,NA,NA,PPRTV,400,Neuro,Impaired motor coordination,NA,NA,NA
+NA,Xylenes,108-38-3,"Xylenes, m-",YES,MDH HRV (CAL EPA),22000,"Resp , Neuro , Eyes",irritant - eye and respiratory system; CNS,NA,1330-20-7,Xylenes, ,NA, ,NA,NA,NA,IRIS,100,"Neuro, Resp",Nervous system; respiratory system,NA,NA,NA,PPRTV,400,Neuro,Impaired motor coordination,NA,1330-20-7,Xylenes
+NA,Xylenes,95-47-6,"Xylenes, o-",YES,MDH HRV (CAL EPA),22000,"Resp , Neuro , Eyes",irritant - eye and respiratory system; CNS,NA,1330-20-7,Xylenes, ,NA, ,NA,NA,NA,IRIS,100,"Neuro, Resp",Nervous system; respiratory system,NA,NA,NA,PPRTV,400,Neuro,Impaired motor coordination,NA,1330-20-7,Xylenes
+NA,Xylenes,106-42-3,"Xylenes, p-",YES,MDH HRV (CAL EPA),22000,"Resp , Eyes , Neuro",irritant - eye and respiratory system; CNS,NA,1330-20-7,Xylenes, ,NA, ,NA,NA,NA,IRIS,100,"Neuro, Resp",Nervous system; respiratory system,NA,NA,NA,PPRTV,400,Neuro,Impaired motor coordination,NA,1330-20-7,Xylenes
+SUR,"Zn, Cr",13530-65-9,Zinc chromate,NO, , ,NA,NA,NA,1333-82-0,Chromic acid mists and dissolved Cr(VI) aerosols,MDH HRV (***),0.0125,8e-04,NA,NA,NA,IRIS,0.008,Resp,nasal septum atrophy,NA,1333-82-0,Chromic acid mists and dissolved Cr(VI) aerosols,MDH HRV (***),0.02,Resp,Upper and lower respiratory,NA,1333-82-0,Chromic acid mists and dissolved Cr(VI) aerosols

@@ -1,0 +1,361 @@
+CAS,Chemical Name,Acute Air Reference,Acute Air Concentration,Cancer Based Air Reference,Cancer Based Air Concentration,Non-Cancer Chronic Air Reference,Non-Cancer Chronic Air Concentration,Sub-Chronic Air Reference,Sub-Chronic Air Concentration
+75-07-0,Acetaldehyde,CAL EPA,470,HRV,5,IRIS,9,NA,NA
+60-35-5,Acetamide, , ,CAL EPA,0.5, , ,NA,NA
+75-86-5,Acetone Cyanohydrin, , , , ,PPRTV,2,PPRTV,20
+75-05-8,Acetonitrile, , , , ,HRV,60,NA,NA
+107-02-8,Acrolein,HBV,5, , ,HBV,0.4,HBV,1
+79-06-1,Acrylamide, , ,IRIS,0.1,IRIS,6,NA,NA
+79-10-7,Acrylic acid,CAL EPA,6000, , ,IRIS,1,HRV,3
+107-13-1,Acrylonitrile, , ,HRV,0.1,IRIS,2,NA,NA
+111-69-3,Adiponitrile, , , , ,PPRTV,6,PPRTV,60
+00-07-9,Aldehydes,HRV,94,MDH,2,CAL EPA,0.08,NA,NA
+309-00-2,Aldrin, , ,IRIS,0.002, , ,NA,NA
+VARIOUS,Aliphatic Hydrocarbon Streams (Midrange), , ,PPRTV,0.00222,PPRTV,100,NA,NA
+75-85-4,"Amyl Alcohol, tert-", , , , , , ,NA,NA
+107-05-1,Allyl chloride, , ,CAL EPA,1.7,IRIS,1,HRV,10
+7429-90-5,Aluminum, , , , ,PPRTV,5,NA,NA
+117-79-3,"Aminoanthraquinone, 2-", , ,CAL EPA,1.1, , ,NA,NA
+7664-41-7,Ammonia,HRV,3200, , ,HRV,80,PPRTV,100
+62-53-3,Aniline, , ,CAL EPA,6.3,IRIS,1,NA,NA
+191-26-4,Anthanthrene, , ,MDH,0.0251, , ,NA,NA
+7440-36-0,Antimony, , , , ,HRV,0.2,NA,NA
+0-00-1,Antimony Compounds, , , , ,HRV,0.2,NA,NA
+1309-64-4,Antimony trioxide, , , , ,HRV,0.2,PPRTV,0.2
+140-57-8,Aramite, , ,IRIS,1.4, , ,NA,NA
+7440-38-2,Arsenic,CAL EPA,0.2,HRV,0.002,CAL EPA,0.015,NA,NA
+0-00-2,Arsenic Compounds,CAL EPA,0.2,HRV,0.002,CAL EPA,0.015,NA,NA
+1327-53-3,Arsenic Trioxide,CAL EPA,0.2,HRV,0.002,CAL EPA,0.015,NA,NA
+7784-42-1,Arsine,HRV,200, , ,IRIS,0.05,HRV,0.1
+123-77-3,Azodicarbonamide, , , , ,PPRTV,0.007,PPRTV,0.007
+71-43-2,Benzene,HRV,1000,HRV,1.3,IRIS,30,PPRTV,80
+92-87-5,Benzidine, , ,HRV,2e-04, , ,NA,NA
+202-94-8,"11H-Benz[b,c]aceanthrylene", , ,HRV,0.201, , ,NA,NA
+199-54-2,Benz[e]aceanthrylene, , ,MDH,0.0126, , ,NA,NA
+202-33-5,Benz[j]aceanthryIene, , ,MDH,0.000167, , ,NA,NA
+211-91-6,Benz[l]aceanthryIene, , ,MDH,0.00201, , ,NA,NA
+205-82-3,Benzo(j)fluoranthene, , ,MDH,0.0335, , ,NA,NA
+207-08-9,Benzo(k)fluoranthene, , ,MDH,0.335, , ,NA,NA
+56-55-3,Benzo[a]anthracene, , ,MDH,0.0502, , ,NA,NA
+50-32-8,Benzo[a]pyrene, , ,MDH,0.01, , ,NA,NA
+205-99-2,Benzo[b]fluoranthene, , ,MDH,0.0126, , ,NA,NA
+205-12-9,Benzo[c]fluorene, , ,MDH,0.000502, , ,NA,NA
+191-24-2,"Benzo[g,h,i]perylene", , ,MDH,1.12, , ,NA,NA
+100-44-7,Benzyl chloride,CAL EPA,240,CAL EPA,0.2,PPRTV,1,PPRTV,4
+7440-41-7,Beryllium, , ,HRV,0.004,IRIS,0.02,NA,NA
+0-00-3,Beryllium Compounds, , ,HRV,0.004,IRIS,0.02,NA,NA
+92-52-4,"Biphenyl, 1,1-", , , , , , ,PPRTV,4
+117-81-7,Bis(2-ethylhexyl)phthalate (DEHP), , ,CAL EPA,4.2, , ,NA,NA
+542-88-1,Bis(chloromethyl)ether, , ,HRV,2e-04, , ,NA,NA
+10294-34-5,Boron Trichloride, , , , ,PPRTV,20,PPRTV,20
+108-86-1,Bromobenzene, , , , ,IRIS,60,IRIS,200
+74-97-5,Bromochloromethane, , , , , , ,PPRTV,100
+75-25-2,Bromoform, , ,IRIS,9.1, , ,NA,NA
+74-83-9,Bromomethane,HRV,2000, , ,HRV,5,PPRTV,100
+106-94-5,"Bromopropane, 1-",HBV,50000, , ,HBV,20,HBV,4000
+106-99-0,"Butadiene, 1,3-",CAL EPA,660,HBV,0.2,IRIS,2,NA,NA
+78-92-2,"Butyl alcohol, sec-", , , , ,PPRTV,30000,PPRTV,30000
+111-76-2,Butyl Cellosolve (ethylene glycol monobutyl ether),CAL EPA,14000, , ,HRV,13000,NA,NA
+7440-43-9,Cadmium, , ,HRV,0.006,CAL EPA,0.02,NA,NA
+0-00-4,Cadmium Compounds, , ,HRV,0.006,CAL EPA,0.02,NA,NA
+105-60-2,Caprolactum,CAL EPA,50, , ,CAL EPA,2.2,NA,NA
+75-15-0,Carbon disulfide,HRV,6000, , ,HRV,700,NA,NA
+630-08-0,Carbon Monoxide,CAL EPA,23000, , , , ,NA,NA
+56-23-5,Carbon tetrachloride,CAL EPA,1900,IRIS,1.7,IRIS,100,NA,NA
+463-58-1,Carbonyl sulfide,CAL EPA,660, , ,PPRTV,100,PPRTV,1000
+111-15-9,Cellosolve Acetate (ethylene glycol monoethyl ether acetate),HRV,100, , ,CAL EPA,300,PPRTV,60
+1306-38-3,Cerium Oxide and Cerium Compounds, , , , ,IRIS,0.9,NA,NA
+12789-03-6,Chlordane or (57-74-9), , ,IRIS,0.1,IRIS,0.7,HRV,7
+108171-26-2,"Chlorinated Paraffins (C12, 60% Chlorine)", , ,CAL EPA,0.4, , ,NA,NA
+7782-50-5,Chlorine,HRV,290, , ,CAL EPA,0.2,NA,NA
+10049-04-4,Chlorine Oxide (CLO2), , , , ,IRIS,0.2,HRV,0.6
+75-68-3,"Chloro-1,1-difluoroethane, 1- (HCFC-142b)", , , , ,IRIS,50000,NA,NA
+532-27-4,"Chloroacetophenone, 2-", , , , ,HRV,0.03,NA,NA
+108-90-7,Chlorobenzene, , , , ,CAL EPA,1000,PPRTV,500
+98-56-6,"Chlorobenzotrifluoride, 4-", , , , ,PPRTV,300,PPRTV,3000
+75-45-6,Chlorodifluoromethane (HCFC-22), , , , ,IRIS,50000,NA,NA
+67-66-3,Chloroform,HRV,150,IRIS,0.43,CAL EPA,300,NA,NA
+88-73-3,"Chloronitrobenzene, o-", , , , , , ,PPRTV,0.1
+100-00-5,"Chloronitrobenzene, p-", , , , ,PPRTV,2,PPRTV,6
+95-83-0,"Chloro-o-phenylenediamine, 4-", , ,CAL EPA,2.2, , ,NA,NA
+95-69-2,"Chloro-o-toluidine, p-", , ,CAL EPA,0.13, , ,NA,NA
+76-06-2,Chloropicrin,CAL EPA,29, , ,CAL EPA,0.4,NA,NA
+126-99-8,Chloroprene, , ,IRIS,0.033,IRIS,20,NA,NA
+7440-47-3,Chromium, , ,HRV,8e-04,IRIS,0.008,HRV,0.02
+18540-29-9,Chromic acid mists and dissolved Cr(VI) aerosols, , ,HRV,8e-04,IRIS,0.008,HRV,0.02
+18540-29-9-particle,Chromium (Hexavalent) (particulate), , ,HRV,8e-04,IRIS,0.1,HRV,1
+0-00-5,Chromium Compounds, , ,HRV,8e-04,IRIS,0.008,HRV,0.02
+218-01-9,Chrysene (Benzo(a)phenanthrene), , ,MDH,0.1, , ,NA,NA
+8007-45-2,Coal Tar, , ,HRV,0.02, , ,NA,NA
+7440-48-4,Cobalt, , ,PPRTV,0.0011,PPRTV,0.006,PPRTV,0.02
+0-00-7,Coke Oven Emissions, , ,HRV,0.02, , ,NA,NA
+7440-50-8,Copper,CAL EPA,100, , , , ,NA,NA
+00-03-1,Copper Compounds,CAL EPA,100, , , , ,NA,NA
+120-71-8,"Cresidine, p-", , ,CAL EPA,0.23, , ,NA,NA
+108-39-4,"Cresol, m-", , , , ,CAL EPA,600,NA,NA
+95-48-7,"Cresol, o-", , , , ,CAL EPA,600,NA,NA
+106-44-5,"Cresol, p-", , , , ,CAL EPA,600,NA,NA
+1319-77-3,Cresols/Cresylic acid (isomers and mixture), , , , ,CAL EPA,600,NA,NA
+98-82-8,Cumene, , , , ,IRIS,400,HRV,4000
+135-20-6,Cupferron, , ,CAL EPA,0.16, , ,NA,NA
+57-12-5,"Cyanide (Cyanide ion, Inorganic cyanides, Isocyanide)",HRV,700, , ,HRV,3,NA,NA
+0-00-8,Cyanide Compounds,HRV,700, , ,HRV,3,NA,NA
+110-82-7,Cyclohexane, , , , ,IRIS,6000,PPRTV,18000
+109-94-1,Cyclohexanone, , , , ,PPRTV,700,PPRTV,7000
+27208-37-3,"Cyclopenta[c,d]pyrene", , ,MDH,0.0251, , ,NA,NA
+202-98-2,"4H-Cyclopenta[d,e,f]chrysene", , ,MDH,0.0335, , ,NA,NA
+50-29-3,DDT, , ,IRIS,0.1, , ,NA,NA
+615-05-4,"Diaminoanisole, 2,4-", , ,CAL EPA,1.5, , ,NA,NA
+103-33-3,"Diazene, Diphenyl", , ,IRIS,0.32, , ,NA,NA
+226-36-8,"Dibenz(a,h)acridine", , ,MDH,0.1, , ,NA,NA
+224-42-0,"Dibenz(a,j)acridine", , ,MDH,0.1, , ,NA,NA
+53-70-3,"Dibenz[a,h]anthracene", , ,MDH,0.001, , ,NA,NA
+5385-75-1,"Dibenzo[a,e]fluoranthene", , ,MDH,0.0112, , ,NA,NA
+192-65-4,"Dibenzo(a,e)pyrene", , ,MDH,0.0251, , ,NA,NA
+189-64-0,"Dibenzo(a,h)pyrene", , ,MDH,0.0112, , ,NA,NA
+191-30-0,"Dibenzo(a,l)pyrene", , ,MDH,0.000335, , ,NA,NA
+194-59-2,"Dibenzo(c,g)carbazole, 7H-", , ,MDH,0.01, , ,NA,NA
+189-55-9,"Dibenzo[a,i]pyrene", , ,MDH,0.0167, , ,NA,NA
+96-12-8,"Dibromo-3-chloropropane, 1,2-", , ,CAL EPA,0.005,IRIS,0.2,HRV,2
+106-46-7,"Dichlorobenzene(p), 1,4-", , ,CAL EPA,0.91,IRIS,800,HRV,800
+25321-22-6,Dichlorobenzenes, , ,CAL EPA,0.91,IRIS,800,HRV,800
+91-94-1,"Dichlorobenzidene, 3,3-", , ,CAL EPA,0.029, , ,NA,NA
+764-41-0,"Dichloro-2-butene, 1,4-", , ,PPRTV,0.0024, , ,NA,NA
+1476-11-5,"Dichloro-2-butene, cis-1,4-", , ,PPRTV,0.0024, , ,NA,NA
+75-71-8,Dichlorodifluoromethane (CFC-12), , , , , , ,PPRTV,1000
+111-44-4,Dichloroethyl ether (Bis(2-chloroethyl)ethe, , ,IRIS,0.03, , ,NA,NA
+75-35-4,"Dichloroethylene (1,1-) (Vinylidene chloride)", , , , ,IRIS,200,NA,NA
+156-60-5,"Dichloroethylene, trans-1,2-", , , , , , ,NA,NA
+542-75-6,"Dichloropropene, 1,3-", , ,IRIS,2.5,HRV,20,NA,NA
+62-73-7,Dichlorvos, , , , ,HRV,0.5,NA,NA
+77-73-6,Dicyclopentadiene, , , , , , ,HRV,3
+60-57-1,Dieldrin, , ,IRIS,0.0022, , ,NA,NA
+0-02-4,Diesel exhaust particulate, , , , ,HRV,5,NA,NA
+111-42-2,Diethanolamine, , , , ,CAL EPA,3,PPRTV,2
+112-34-5,Diethylene Glycol Monobutyl Ether, , , , ,PPRTV,0.1,PPRTV,1
+111-90-0,Diethylene Glycol Monoethyl Ether, , , , ,PPRTV,0.3,PPRTV,3
+75-37-6,"Difluoroethane, 1,1-", , , , ,IRIS,40000,NA,NA
+108-20-3,Diisopropyl Ether, , , , ,PPRTV,700,PPRTV,700
+60-11-7,Dimethyl aminoazobenzene, , ,CAL EPA,0.0077, , ,NA,NA
+68-12-2,Dimethyl formamide, , , , ,HRV,30,PPRTV,70
+108-01-0,"Dimethylamino ethanol, 2-", , , , , , ,HRV,70
+57-97-6,"Dimethylbenz[a]anthracene, 7,12-", , , , , , ,NA,NA
+57-14-7,"Dimethylhydrazine, 1,1-", , , , , , ,PPRTV,0.008
+42397-64-8,"Dinitropyrene, 1,6- (BaP)", , ,MDH,0.001, , ,NA,NA
+42397-65-9,"Dinitropyrene, 1,8- (BaP)", , ,MDH,0.01, , ,NA,NA
+121-14-2,"Dinitrotoluene, 2,4-", , ,CAL EPA,0.11, , ,NA,NA
+123-91-1,"Dioxane, 1,4- (1,4-Diethylene dioxide)",HRV,3000,IRIS,2,IRIS,30,NA,NA
+122-66-7,"Diphenylhydrazine, 1,2-", , ,IRIS,0.045, , ,NA,NA
+106-89-8,"Epichlorohydrin (l-Chloro-2,3-epoxypropane)",CAL EPA,1300,HRV,8,IRIS,1,PPRTV,10
+106-88-7,"Epoxybutane, 1,2-", , , , ,HRV,20,NA,NA
+141-78-6,Ethyl acetate, , , , ,PPRTV,70,PPRTV,700
+140-88-5,Ethyl Acrylate, , , , ,PPRTV,8,PPRTV,8
+110-80-5,"Ethoxyethanol, 2- (ethylene glycol monoethyl ether)",HRV,400, , ,IRIS,200,HRV,60
+100-41-4,Ethyl benzene,HRV,10000,CAL EPA,4,IRIS,1000,PPRTV,9000
+51-79-6,Ethyl carbamate (Urethane), , ,CAL EPA,0.034, , ,NA,NA
+75-00-3,Ethyl chloride (Chloroethane),HRV,1e+05, , ,IRIS,10000,PPRTV,4000
+97-63-2,Ethyl Methacrylate, , , , ,PPRTV,300,PPRTV,3000
+106-93-4,Ethylene dibromide (Dibromoethane), , ,HRV,0.05,IRIS,9,NA,NA
+107-06-2,"Ethylene dichloride (1,2-Dichloroethane)", , ,IRIS,0.38,CAL EPA,400,PPRTV,70
+107-21-1,Ethylene glycol, , , , ,CAL EPA,400,NA,NA
+75-21-8,Ethylene oxide, , ,IRIS,0.0033,CAL EPA,30,NA,NA
+96-45-7,Ethylene thiourea, , ,CAL EPA,0.77, , ,NA,NA
+75-34-3,"Ethylidene dichloride (1,1-Dichloroethane)", , ,CAL EPA,6.3, , ,NA,NA
+206-44-0,Fluoranthene, , ,MDH,0.126, , ,NA,NA
+1101,Fluorides (except hydrogen fluoride), , , , ,CAL EPA,13,NA,NA
+50-00-0,Formaldehyde,HRV,94,MDH,2,CAL EPA,9,NA,NA
+64-18-6,Formic Acid, , , , , , ,PPRTV,0.9
+111-30-8,Glutaraldehyde, , , , ,CAL EPA,0.08,NA,NA
+0-01-2,Glycol ethers,HRV,90, , ,IRIS,20,HRV,60
+76-44-8,Heptachlor, , ,IRIS,0.0077, , ,NA,NA
+1024-57-3,Heptachlor epoxide, , ,IRIS,0.0038, , ,NA,NA
+00-08-5,"Heptachlorodibenzodioxin, All Isomers", , ,MPCA,2.5e-06,MPCA,0.004,NA,NA
+67562-39-4,"Heptachlorodibenzofuran, 1,2,3,4,6,7,8-", , ,MPCA,2.5e-06,MPCA,0.004,NA,NA
+55673-89-7,"Heptachlorodibenzofuran, 1,2,3,4,7,8,9-", , ,MPCA,2.5e-06,MPCA,0.004,NA,NA
+00-08-4,"Heptachlorodibenzofuran, All Isomers", , ,MPCA,2.5e-06,MPCA,0.004,NA,NA
+35822-46-9,"Heptachlorodibenzo-p-dioxin, 1,2,3,4,6,7,8-", , ,MPCA,2.5e-06,MPCA,0.004,NA,NA
+142-82-5,"Heptane, N", , , , ,PPRTV,400,PPRTV,4000
+118-74-1,Hexachlorobenzene, , ,IRIS,0.022, , ,NA,NA
+87-68-3,Hexachlorobutadiene, , ,IRIS,0.45, , ,NA,NA
+608-73-1,Hexachlorocyclohexane (technical grade), , ,IRIS,0.02, , ,NA,NA
+319-84-6,"Hexachlorocyclohexane, alpha-", , ,IRIS,0.0056, , ,NA,NA
+319-85-7,"Hexachlorocyclohexane, beta-1,2,3,4,5,6-", , ,IRIS,0.019, , ,NA,NA
+77-47-4,Hexachlorocyclopentadiene, , , , ,IRIS,0.2,NA,NA
+00-08-3,"Hexachlorodibenzodioxins, All Isomers", , ,MPCA,2.5e-07,MPCA,4e-04,NA,NA
+70648-26-9,"Hexachlorodibenzofuran, 1,2,3,4,7,8-", , ,MPCA,2.5e-07,MPCA,4e-04,NA,NA
+57117-44-9,"Hexachlorodibenzofuran, 1,2,3,6,7,8-", , ,MPCA,2.5e-07,MPCA,4e-04,NA,NA
+72918-21-9,"Hexachlorodibenzofuran, 1,2,3,7,8,9-", , ,MPCA,2.5e-07,MPCA,4e-04,NA,NA
+60851-34-5,"Hexachlorodibenzofuran, 2,3,4,6,7,8-", , ,MPCA,2.5e-07,MPCA,4e-04,NA,NA
+00-08-2,"Hexachlorodibenzofurans, All Isomers", , ,MPCA,2.5e-07,MPCA,7170,NA,NA
+39227-28-6,"Hexachlorodibenzo-p-dioxin, 1,2,3,4,7,8-", , ,MPCA,2.5e-07,MPCA,4e-04,NA,NA
+57653-85-7,"Hexachlorodibenzo-p-dioxin, 1,2,3,6,7,8-", , ,IRIS,7.7e-06,MPCA,4e-04,NA,NA
+19408-74-3,"Hexachlorodibenzo-p-dioxin, 1,2,3,7,8,9-", , ,IRIS,7.7e-06,MPCA,4e-04,NA,NA
+67-72-1,Hexachloroethane, , ,IRIS,2.5,IRIS,30,NA,NA
+822-06-0,"Hexamethylene-1,6-diisocyanate", , , , ,HRV,0.01,NA,NA
+110-54-3,Hexane, , ,PPRTV,50,HRV,2000,PPRTV,2000
+591-78-6,Hexanone-2, , , , ,IRIS,30,NA,NA
+302-01-2,Hydrazine, , ,HRV,0.002,CAL EPA,0.2,PPRTV,0.09
+10034-93-2,Hydrazine sulfate, , ,HRV,0.002, , ,NA,NA
+7647-01-0,Hydrochloric acid (hydrogen chloride),HRV,2700, , ,HRV,20,NA,NA
+74-90-8,Hydrogen cyanide,HRV,700, , ,HRV,3,NA,NA
+7664-39-3,Hydrogen fluoride (Hydrofluoric acid),HRV,240, , ,CAL EPA,14,NA,NA
+7783-07-5,Hydrogen selenide,CAL EPA,5, , , , ,NA,NA
+7783-06-4,Hydrogen sulfide,CAL EPA,42, , ,IRIS,2,HRV,10
+193-39-5,"Indeno(1,2,3-cd)pyrene", , ,MDH,0.143, , ,NA,NA
+78-59-1,Isophorone, , , , ,CAL EPA,2000,NA,NA
+67-63-0,Isopropyl alcohol,CAL EPA,3200, , ,CAL EPA,7000,PPRTV,7000
+7439-92-1,Lead, , ,CAL EPA,0.83,NAAQS,0.15,NAAQS,0.15
+7758-97-6,Lead Chromate, , ,HRV,8e-04,IRIS,0.008,HRV,0.02
+0-01-3,Lead Compounds, , ,CAL EPA,0.83,NAAQS,0.15,NAAQS,0.15
+58-89-9,Lindane (all isomers), , ,CAL EPA,0.032, , ,NA,NA
+00-07-8,m- and p-Xylenes,HRV,43000, , ,IRIS,100,NA,NA
+108-31-6,Maleic anhydride, , , , ,CAL EPA,0.7,NA,NA
+7439-96-5,Manganese, , , , ,HRV,0.2,NA,NA
+0-01-4,Manganese Compounds, , , , ,HRV,0.2,NA,NA
+1313-13-9,Manganese Dioxide, , , , ,HRV,0.2,NA,NA
+7439-97-6,Mercury (elemental),CAL EPA,0.6, , ,IRIS,0.3,NA,NA
+0-02-3,Mercury Compounds,CAL EPA,0.6, , ,IRIS,0.3,NA,NA
+126-98-7,Methacrylonitrile, , , , ,PPRTV,30,PPRTV,300
+67-56-1,Methanol,HRV,25000, , ,IRIS,20000,NA,NA
+109-86-4,"Methoxyethanol, 2- (ethylene glycol monomethyl ether EGME)",HRV,90, , ,IRIS,20,HRV,60
+96-33-3,Methyl acrylate, , , , ,PPRTV,20,PPRTV,20
+74-83-9,Methyl bromide (Bromomethane),HRV,2000, , ,HRV,5,PPRTV,100
+110-49-6,Methyl Cellosolve Acetate, , , , ,CAL EPA,90,PPRTV,10
+74-87-3,Methyl chloride (Chloromethane), , , , ,IRIS,90,PPRTV,3000
+71-55-6,"Methyl chloroform (1,1,1-Trichloroethane)",HRV,140000, , ,IRIS,5000,IRIS,5000
+78-93-3,Methyl ethyl ketone (2-Butanone),HRV,10000, , ,IRIS,5000,NA,NA
+60-34-4,Methyl Hydrazine, , , , , , ,PPRTV,0.3
+108-10-1,Methyl isobutyl ketone (Hexone), , , , ,IRIS,3000,NA,NA
+624-83-9,Methyl isocyanate, , , , ,CAL EPA,1,NA,NA
+80-62-6,Methyl methacrylate, , , , ,HRV,700,NA,NA
+1634-04-4,Methyl tert butyl ether, , ,CAL EPA,38,IRIS,3000,NA,NA
+56-49-5,"Methylcholanthrene, 3-", , ,MDH,0.00179, , ,NA,NA
+3697-24-3,"Methylchrysene, 5-", , ,MDH,0.01, , ,NA,NA
+101-14-4,"Methylene bis(2-chloroaniline), 4,4-", , ,CAL EPA,0.023, , ,NA,NA
+74-95-3,Methylene Bromide, , , , , , ,NA,NA
+75-09-2,Methylene chloride (Dichloromethane),HRV,10000,HRV,20,IRIS,600,NA,NA
+101-68-8,Methylene diphenyl diisocyanate (MDI),CAL EPA,12, , ,HRV,0.6,NA,NA
+101-77-9,"Methylenedianiline, 4,4-", , ,CAL EPA,0.022,CAL EPA,20,NA,NA
+90-94-8,Michler's ketone, , ,CAL EPA,0.04, , ,NA,NA
+10595-95-6,N- Nitrosomethylethylamine, , ,CAL EPA,0.0016, , ,NA,NA
+64724-95-6,"Naphtha, High Flash Aromatic (HFAN)", , , , ,PPRTV,100,PPRTV,1000
+91-20-3,Naphthalene,HBV,200,MDH,9,HBV,9,NA,NA
+193-09-9,"Naphtho[2,3-e]pyrene", , ,MDH,0.0335, , ,NA,NA
+7440-02-0,Nickel,HRV,11,HRV,0.02,CAL EPA,0.014,NA,NA
+0-01-5,Nickel Compounds,HRV,11,HRV,0.02,CAL EPA,0.014,NA,NA
+1313-99-1,Nickel oxide,HRV,11,CAL EPA,0.038,CAL EPA,0.02,NA,NA
+0-02-5,Nickel refinery dust from the pyrometallurgical process,HRV,11,IRIS,0.04,CAL EPA,0.014,NA,NA
+12035-72-2,Nickel sulfide (NI3S2),HRV,11,HRV,0.02,CAL EPA,0.014,NA,NA
+7697-37-2,Nitric acid,HRV,130, , , , ,NA,NA
+602-87-9,"Nitroacenaphthene, 5-", , ,MDH,0.502, , ,NA,NA
+88-74-4,"Nitroaniline, 2-", , , , , , ,PPRTV,0.4
+100-01-6,"Nitroaniline, 4-", , , , ,PPRTV,6,PPRTV,20
+98-95-3,Nitrobenzene, , ,IRIS,0.25,IRIS,9,NA,NA
+7496-02-8,"Nitrochrysene, 6-", , ,MDH,0.001, , ,NA,NA
+607-57-8,"Nitrofluorene, 2-", , ,MDH,1, , ,NA,NA
+10102-44-0,Nitrogen dioxide (NO2),HBV,470, , , , ,NA,NA
+75-52-5,Nitromethane, , ,PPRTV,1.1,PPRTV,5,PPRTV,4
+79-46-9,"Nitropropane, 2-", , , , ,HRV,20,NA,NA
+5522-43-0,"Nitropyrene, 1-", , ,MDH,0.1, , ,NA,NA
+57835-92-4,"Nitropyrene, 4-", , ,MDH,0.1, , ,NA,NA
+156-10-5,"Nitrosodiphenylamine, p-", , ,CAL EPA,1.6, , ,NA,NA
+55-18-5,N-Nitrosodiethylamine, , ,IRIS,0.00023, , ,NA,NA
+62-75-9,N-Nitrosodimethylamine, , ,IRIS,0.00071, , ,NA,NA
+924-16-3,N-Nitrosodi-n-butylamine, , ,IRIS,0.0062, , ,NA,NA
+621-64-7,N-Nitrosodi-n-propylamine, , ,CAL EPA,0.005, , ,NA,NA
+86-30-6,N-Nitrosodiphenylamine, , ,CAL EPA,3.8, , ,NA,NA
+59-89-2,N-Nitrosomorpholine, , ,CAL EPA,0.0053, , ,NA,NA
+100-75-4,N-Nitrosopiperidine, , ,CAL EPA,0.0037, , ,NA,NA
+111-84-2,N-Nonane, , , , ,PPRTV,20,PPRTV,200
+39001-02-0,"Octachlorodibenzofuran, 1,2,3,4,6,7,8,9-", , ,MPCA,8.3e-05,MPCA,0.133,NA,NA
+3268-87-9,"Octachlorodibenzo-p-dioxin, 1,2,3,4,6,7,8,9-", , ,MPCA,8.3e-05,MPCA,0.133,NA,NA
+10028-15-6,Ozone,CAL EPA,180, , , , ,NA,NA
+00-08-1,"Pentachlorodibenzodioxins, All Isomers", , ,MPCA,2.5e-08,MPCA,4e-05,NA,NA
+57117-41-6,"Pentachlorodibenzofuran, 1,2,3,7,8-", , ,MPCA,8.3e-07,MPCA,0.00133,NA,NA
+57117-31-4,"Pentachlorodibenzofuran, 2,3,4,7,8-", , ,MPCA,8.3e-08,MPCA,0.000133,NA,NA
+00-09-0,"Pentachlorodibenzofurans, All Isomers", , ,MPCA,8.3e-08,MPCA,0.000133,NA,NA
+40321-76-4,"Pentachlorodibenzo-p-dioxin, 1,2,3,7,8-", , ,MPCA,2.5e-08,MPCA,4e-05,NA,NA
+87-86-5,Pentachlorophenol, , ,CAL EPA,2, , ,NA,NA
+109-66-0,"Pentane, n-", , , , ,PPRTV,1000,PPRTV,10000
+00-07-7,"Petroleum Hydrocarbons, Aliphatic (C7 - C11)", , ,PPRTV,2.5, , ,NA,NA
+85-01-8,Phenanthrene, , , , , , ,NA,NA
+108-95-2,Phenol,HRV,5800, , ,CAL EPA,200,NA,NA
+75-44-5,Phosgene,HRV,4, , ,IRIS,0.3,NA,NA
+7803-51-2,Phosphine, , , , ,IRIS,0.3,HRV,3
+7664-38-2,Phosphoric acid, , , , ,IRIS,10,NA,NA
+85-44-9,Phthalic anhydride, , , , ,CAL EPA,20,NA,NA
+1336-36-3,Polychlorinated biphenyls (Aroclors unspeciated), , ,IRIS,0.1,CAL EPA,4e-04,NA,NA
+32598-13-3,"PCB 77 (3,3,4,4-Tetrachlorobiphenyl)", , ,Cal EPA,0.0026,CAL EPA,0.4,NA,NA
+70362-50-4,"PCB 81 (3,4,4,5 Tetrachlorobiphenyl)", , ,Cal EPA,0.0026,CAL EPA,0.13,NA,NA
+32598-14-4,"PCB105 (2,3,3,4,4 Pentachlorobiphenyl)", , ,Cal EPA,0.0026,CAL EPA,1.3,NA,NA
+74472-37-0,"PCB 114 (2,3,4,4,5 Pentachlorobiphenyl)", , ,Cal EPA,0.00053,CAL EPA,1.3,NA,NA
+31508-00-6,"PCB 118 (2,3,4,4,5 Pentachlorobiphenyl)", , ,Cal EPA,0.0026,CAL EPA,1.3,NA,NA
+65510-44-3,"PCB 123 (2,3,4,4,5 Pentachlorobiphenyl)", , ,Cal EPA,0.0026,CAL EPA,1.3,NA,NA
+57465-28-8,"PCB 126 (3,3,4,4,5 Pentachlorobiphenyl)", , ,Cal EPA,2.6e-06,CAL EPA,4e-04,NA,NA
+38380-0804,"PCB 156 (2,3,3,4,4,5 Hexachlorobiphenyl)", , ,Cal EPA,0.00053,CAL EPA,1.3,NA,NA
+69782-90-7,"PCB 157 (2,3,3,4,4,5 Hexachlorobiphenyl)", , ,Cal EPA,0.00053,CAL EPA,1.3,NA,NA
+52663-72-6,"PCB 167 (2,3,4,4,5,5 Hexachlorobiphenyl)", , ,Cal EPA,0.026,CAL EPA,1.3,NA,NA
+32774-16-6,"PCB 169 (3,3,4,4,5,5 Hexachlorobiphenyl)", , ,Cal EPA,2.6e-05,CAL EPA,0.0013,NA,NA
+39635-31-9,"PCB 189 (2,3,3,4,4,5,5 Heptachlorobiphenyl)", , ,Cal EPA,0.0026,CAL EPA,1.3,NA,NA
+00-05-0,"Polychlorinated Dibenzodioxins, Total", , ,MPCA,2.5e-08,CAL EPA,4e-05,NA,NA
+00-05-1,"Polychlorinated Dibenzofurans, Total", , ,MPCA,8.3e-08,MPCA,0.000133,NA,NA
+00-08-0,"Polychlorinated Dibenzo-P-Dioxins And Furans, Total", , ,MPCA,2.5e-08,CAL EPA,4e-05,NA,NA
+130498-29-2,Polycyclic Aromatic Hydrocarbons (PAH), , ,MDH,0.0056, , ,NA,NA
+00-01-7,Polycyclic Organic Matter (POM), , ,MPCA/MDH,0.11, , ,NA,NA
+9016-87-9,Polymeric diphenylmethane diisocyanate, , , , ,HRV,0.6,NA,NA
+7758-01-2,Potassium bromate, , ,CAL EPA,0.071, , ,NA,NA
+1120-71-4,"Propane sultone, 1,3-", , ,CAL EPA,0.014, , ,NA,NA
+123-38-6,Propionaldehyde, , , , ,IRIS,8,NA,NA
+115-07-1,Propylene, , , , ,CAL EPA,3000,NA,NA
+78-87-5,"Propylene dichloride (1,2-Dichloropropane)", , , , ,IRIS,4,HRV,10
+107-98-2,Propylene Glycol Monomethyl Ether, , , , ,IRIS,2000,HRV,20000
+75-56-9,Propylene oxide,CAL EPA,3100,HRV,3,IRIS,30,NA,NA
+930-55-2,"Pyrrolidine, 1-Nitroso-", , ,IRIS,0.016, , ,NA,NA
+7782-49-2,Selenium, , , , ,CAL EPA,20,NA,NA
+0-01-9,Selenium Compounds, , , , ,CAL EPA,20,NA,NA
+7631-86-9,"Silica (crystalline, respirable, PM4)", , , , ,HBV,3,NA,NA
+1310-73-2,Sodium hydroxide,HRV,8, , , , ,NA,NA
+7789-06-2,Strontium chromate, , ,HRV,8e-04,IRIS,0.008,HRV,0.02
+100-42-5,Styrene,HRV,21000, , ,HRV,1000,NA,NA
+14808-79-8,Sulfates,CAL EPA,120, , , , ,NA,NA
+126-33-0,Sulfolane, , , , , , ,PPRTV,20
+7664-93-9,Sulfuric acid (aerosol forms only),CAL EPA,120, , ,CAL EPA,1,NA,NA
+8014-95-7,Sulfuric Acid mixture w. sulfur trioxide (oleum),CAL EPA,120, , , , ,NA,NA
+7446-09-5,Sulfur dioxide,CAL EPA,660, , , , ,NA,NA
+00-09-1,"TCDD Eqivalents, 2,3,7,8-", , ,MPCA,2.5e-08,CAL EPA,4e-05,NA,NA
+00-08-8,"Tetrachlorodibenzodioxins, All Isomers", , ,MPCA,2.5e-08,CAL EPA,4e-05,NA,NA
+51207-31-9,"Tetrachlorodibenzofuran, 2,3,7,8-", , ,MPCA,2.5e-07,MPCA,4e-04,NA,NA
+00-08-6,"Tetrachlorodibenzofurans, All Isomers", , ,MPCA,2.5e-07,MPCA,4e-04,NA,NA
+1746-01-6,"Tetrachlorodibenzo-p-dioxin, 2,3,7,8-", , ,MPCA,2.5e-08,CAL EPA,4e-05,NA,NA
+630-20-6,"Tetrachloroethane, 1,1,1,2-", , ,IRIS,1.4, , ,NA,NA
+79-34-5,"Tetrachloroethane, 1,1,2,2-", , ,IRIS,0.17, , ,NA,NA
+127-18-4,Tetrachloroethylene (Perchloroethylene),HRV,20000,MDH,2,MDH,15,NA,NA
+811-97-2,"Tetrafluoroethane, 1,1,1,2-", , , , ,IRIS,80000,NA,NA
+109-99-9,Tetrahydrofuran, , , , ,IRIS,2000,NA,NA
+62-55-5,Thioacetamide, , ,CAL EPA,0.0059, , ,NA,NA
+108-88-3,Toluene,HRV,37000, , ,HRV,400,PPRTV,5000
+95-80-7,"Toluene diamine, 2,4-", , ,CAL EPA,0.0091, , ,NA,NA
+584-84-9,"Toluene diisocyanate, 2,4-",CAL EPA,2,CAL EPA,0.91,CAL EPA,0.07,NA,NA
+91-08-7,"Toluene-2,6-diisocyanate",CAL EPA,2,CAL EPA,0.91,CAL EPA,0.07,NA,NA
+26471-62-5,Toluenediisocyanate (mixed isomers), , ,CAL EPA,0.91,HRV,0.08,NA,NA
+8001-35-2,Toxaphene (chlorinated camphene), , ,IRIS,0.031, , ,NA,NA
+120-82-1,"Trichlorobenzene, 1,2,4-", , , , ,PPRTV,2,PPRTV,20
+79-00-5,"Trichloroethane, 1,1,2-", , ,IRIS,0.63, , ,PPRTV,2
+79-01-6,Trichloroethylene,HBV - Short-term,2,MDH,2,HBV,2,HBV,2
+76-13-1,"Trichloro-1,2,2-trifluoroethane, 1,1,2-", , , , ,PPRTV,5000,PPRTV,50000
+75-69-4,Trichlorofluoromethane (CFC-11), , , , , , ,PPRTV,1000
+88-06-2,"Trichlorophenol, 2,4,6-", , ,IRIS,3.2, , ,NA,NA
+96-18-4,"Trichloropropane, 1,2,3-", , , , ,IRIS,0.3,NA,NA
+96-19-5,"Trichloropropene, 1,2,3-", , , , ,PPRTV,0.3,PPRTV,3
+121-44-8,Triethylamine,HRV,2800, , ,IRIS,7,HRV,70
+420-46-2,"Trifluoroethane, 1,1,1-", , , , ,PPRTV,20000,PPRTV,2e+05
+526-73-8,"Trimethylbenzene, 1,2,3-", , , , ,IRIS,60,PPRTV,50
+95-63-6,"Trimethylbenzene, 1,2,4-", , , , ,IRIS,60,PPRTV,70
+1314-62-1,"Vanadium Pentoxide, (V2O5)",HRV,30,PPRTV,0.0012,PPRTV,0.007,PPRTV,0.1
+108-05-4,Vinyl acetate, , , , ,HRV,200,NA,NA
+593-60-2,Vinyl bromide, , , , ,IRIS,3,NA,NA
+75-01-4,Vinyl chloride,CAL EPA,180000,HRV,1,IRIS,100,NA,NA
+1330-20-7,Xylenes,HRV,43000, , ,IRIS,100,PPRTV,400
+108-38-3,"Xylenes, m-",HRV,43000, , ,IRIS,100,PPRTV,400
+95-47-6,"Xylenes, o-",HRV,43000, , ,IRIS,100,PPRTV,400
+106-42-3,"Xylenes, p-",HRV,43000, , ,IRIS,100,PPRTV,400
+13530-65-9,Zinc chromate, , ,HRV,8e-04,IRIS,0.008,HRV,0.02
